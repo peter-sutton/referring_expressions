@@ -1,0 +1,1204 @@
+﻿X,vcode,imageFile,basname,spcname,cond,resp,resp.raw,pos_tagged,parsed,dep_parsed,tags_only,tokens,head_noun,objName,head_noun_orig,preNomMod,postNomMod,type_mod,preNomModstr,postNomModstr,preNomTags,postNomTags,type_mod_Left,type_mod_Right,actionL,state_verbL,withL,textL,part_or_objectL,colourL,positionL,sizeL,shapeL,orientationL,ageL,materialL,other_adjL,visual_patternL,actionR,state_verbR,withR,textR,part_or_objectR,colourR,positionR,sizeR,shapeR,orientationR,ageR,materialR,other_adjR,visual_patternR,visualL,pos_orientL,eventualityL,part_otherL,visualR,pos_orientR,eventualityR,part_otherR,anyR,anyL,notagsR,notagsL
+6742,1504427,airplane_jet_ambi_unspec_3097446.png,airplane,jet,unsp,the plane with klm visible on tail,the plane with klm visible on tail,"[('the', 'DT'), ('plane', 'NN'), ('with', 'IN'), ('klm', 'NN'), ('visible', 'JJ'), ('on', 'IN'), ('tail', 'NN')]","(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN plane))
+      (PP (IN with)
+        (NP (NN klm))))
+    (ADJP (JJ visible))
+    (PP (IN on)
+      (NP (NN tail)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (dep, 5, 4), (nmod, 2, 5), (case, 7, 6), (obl, 5, 7)]","['DT', 'NN', 'IN', 'NN', 'JJ', 'IN', 'NN']","['the', 'plane', 'with', 'klm', 'visible', 'on', 'tail']",plane,plane,plane,['--'],"['with', 'klm', 'visible', 'on', 'tail']","['position', 'with', 'text', 'part_or_object']",--,with klm visible on tail,['DT'],"['IN', 'NN', 'JJ', 'IN', 'NN']",['--'],"['position', 'with', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+2395,8146096,airplane_jet_ambi_unspec_3097446.png,airplane,jet,unsp,the plane without a logo,the plane without a logo,"[('the', 'DT'), ('plane', 'NN'), ('without', 'IN'), ('a', 'DT'), ('logo', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN plane))
+    (PP (IN without)
+      (NP (DT a) (NN logo)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (det, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'DT', 'NN']","['the', 'plane', 'without', 'a', 'logo']",plane,plane,plane,['--'],"['without', 'a', 'logo']","['with', 'text', 'part_or_object']",--,without a logo,['DT'],"['IN', 'DT', 'NN']",['--'],"['with', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+492,3994550,airplane_jet_ambi_unspec_3097446.png,airplane,jet,unsp,the plane with no logo,the plane with no logo,"[('the', 'DT'), ('plane', 'NN'), ('with', 'IN'), ('no', 'DT'), ('logo', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN plane))
+    (PP (IN with)
+      (NP (DT no) (NN logo)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (det, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'DT', 'NN']","['the', 'plane', 'with', 'no', 'logo']",plane,plane,plane,['--'],"['with', 'no', 'logo']","['with', 'text', 'part_or_object']",--,with no logo,['DT'],"['IN', 'DT', 'NN']",['--'],"['with', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5134,5264234,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the boat with red emergency tube,the boat with red emergency tube,"[('the', 'DT'), ('boat', 'NN'), ('with', 'IN'), ('red', 'JJ'), ('emergency', 'NN'), ('tube', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN boat))
+    (PP (IN with)
+      (NP (JJ red) (NN emergency) (NN tube)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (amod, 6, 4), (compound, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'JJ', 'NN', 'NN']","['the', 'boat', 'with', 'red', 'emergency', 'tube']",boat,boat,boat,['--'],"['with', 'red', 'emergency', 'tube']","['colour', 'with', 'part_or_object']",--,with red emergency tube,['DT'],"['IN', 'JJ', 'NN', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2732,4868622,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the boat with the red circle,the boat with the red circle,"[('the', 'DT'), ('boat', 'NN'), ('with', 'IN'), ('the', 'DT'), ('red', 'JJ'), ('circle', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN boat))
+    (PP (IN with)
+      (NP (DT the) (JJ red) (NN circle)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'boat', 'with', 'the', 'red', 'circle']",boat,boat,boat,['--'],"['with', 'the', 'red', 'circle']","['colour', 'shape', 'with', 'part_or_object']",--,with the red circle,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'shape', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+3446,2611325,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the boat with red flotation device,the boat with red flotation device,"[('the', 'DT'), ('boat', 'NN'), ('with', 'IN'), ('red', 'JJ'), ('flotation', 'NN'), ('device', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN boat))
+    (PP (IN with)
+      (NP (JJ red) (NN flotation) (NN device)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (amod, 5, 4), (compound, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'JJ', 'NN', 'NN']","['the', 'boat', 'with', 'red', 'flotation', 'device']",boat,boat,boat,['--'],"['with', 'red', 'flotation', 'device']","['colour', 'with', 'part_or_object']",--,with red flotation device,['DT'],"['IN', 'JJ', 'NN', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5076,4715719,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the boat with a red life preserver,the boat with a red life preserver,"[('the', 'DT'), ('boat', 'NN'), ('with', 'IN'), ('a', 'DT'), ('red', 'JJ'), ('life', 'NN'), ('preserver', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN boat))
+    (PP (IN with)
+      (NP (DT a) (JJ red) (NN life) (NN preserver)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 7, 3), (det, 7, 4), (amod, 6, 5), (compound, 7, 6), (nmod, 2, 7)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN']","['the', 'boat', 'with', 'a', 'red', 'life', 'preserver']",boat,boat,boat,['--'],"['with', 'a', 'red', 'life', 'preserver']","['colour', 'with', 'part_or_object']",--,with a red life preserver,['DT'],"['IN', 'DT', 'JJ', 'NN', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2436,8146096,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the boat with red and blue stripes,the boat with red and blue stripes,"[('the', 'DT'), ('boat', 'NN'), ('with', 'IN'), ('red', 'JJ'), ('and', 'CC'), ('blue', 'JJ'), ('stripes', 'NNS')]","(ROOT
+  (NP
+    (NP (DT the) (NN boat))
+    (PP (IN with)
+      (NP
+        (ADJP (JJ red)
+          (CC and)
+          (JJ blue))
+        (NNS stripes)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 7, 3), (amod, 7, 4), (cc, 6, 5), (conj, 4, 6), (nmod, 2, 7)]","['DT', 'NN', 'IN', 'JJ', 'CC', 'JJ', 'NNS']","['the', 'boat', 'with', 'red', 'and', 'blue', 'stripes']",boat,boat,boat,['--'],"['with', 'red', 'and', 'blue', 'stripes']","['colour', 'colour', 'with', 'part_or_object']",--,with red and blue stripes,['DT'],"['IN', 'JJ', 'CC', 'JJ', 'NNS']",['--'],"['colour', 'colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+3512,7064640,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the ship where you can see a red life saver in the back,the ship where you can see a red life saver in the back,"[('the', 'DT'), ('ship', 'NN'), ('where', 'WRB'), ('you', 'PRP'), ('can', 'MD'), ('see', 'VB'), ('a', 'DT'), ('red', 'JJ'), ('life', 'NN'), ('saver', 'NN'), ('in', 'IN'), ('the', 'DT'), ('back', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN ship))
+    (SBAR
+      (WHADVP (WRB where))
+      (S
+        (NP (PRP you))
+        (VP (MD can)
+          (VP (VB see)
+            (NP (DT a) (JJ red) (NN life) (NN saver))
+            (PP (IN in)
+              (NP (DT the) (NN back)))))))))","[(ROOT, 0, 2), (det, 2, 1), (advmod, 6, 3), (nsubj, 6, 4), (aux, 6, 5), (acl:relcl, 2, 6), (det, 10, 7), (amod, 9, 8), (compound, 10, 9), (obj, 6, 10), (case, 13, 11), (det, 13, 12), (nmod, 10, 13)]","['DT', 'NN', 'WRB', 'PRP', 'MD', 'VB', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NN']","['the', 'ship', 'where', 'you', 'can', 'see', 'a', 'red', 'life', 'saver', 'in', 'the', 'back']",ship,ship,ship,['--'],"['where', 'you', 'can', 'see', 'a', 'red', 'life', 'saver', 'in', 'the', 'back']","['colour', 'position', 'part_or_object']",--,where you can see a red life saver in the back,['DT'],"['WRB', 'PRP', 'MD', 'VB', 'DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NN']",['--'],"['colour', 'position', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+4407,2460515,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the boat with red,the boat with red,"[('the', 'DT'), ('boat', 'NN'), ('with', 'IN'), ('red', 'JJ')]","(ROOT
+  (NP
+    (NP (DT the) (NN boat))
+    (PP (IN with)
+      (ADJP (JJ red)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 4, 3), (nmod, 2, 4)]","['DT', 'NN', 'IN', 'JJ']","['the', 'boat', 'with', 'red']",boat,boat,boat,['--'],"['with', 'red']","['colour', 'with']",--,with red,['DT'],"['IN', 'JJ']",['--'],"['colour', 'with']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2757,2949171,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the boat with red life preserver,the boat with red life preserver,"[('the', 'DT'), ('boat', 'NN'), ('with', 'IN'), ('red', 'JJ'), ('life', 'NN'), ('preserver', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN boat))
+    (PP (IN with)
+      (NP (JJ red) (NN life) (NN preserver)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (amod, 5, 4), (compound, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'JJ', 'NN', 'NN']","['the', 'boat', 'with', 'red', 'life', 'preserver']",boat,boat,boat,['--'],"['with', 'red', 'life', 'preserver']","['colour', 'with', 'part_or_object']",--,with red life preserver,['DT'],"['IN', 'JJ', 'NN', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+6746,1504427,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the boat with red buoy,the boat with red buoy,"[('the', 'DT'), ('boat', 'NN'), ('with', 'IN'), ('red', 'JJ'), ('buoy', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN boat))
+    (PP (IN with)
+      (NP (JJ red) (NN buoy)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'boat', 'with', 'red', 'buoy']",boat,boat,boat,['--'],"['with', 'red', 'buoy']","['colour', 'with', 'part_or_object']",--,with red buoy,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+6463,4663449,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the boat with a red buoy,the boat with a red buoy,"[('the', 'DT'), ('boat', 'NN'), ('with', 'IN'), ('a', 'DT'), ('red', 'JJ'), ('buoy', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN boat))
+    (PP (IN with)
+      (NP (DT a) (JJ red) (NN buoy)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'boat', 'with', 'a', 'red', 'buoy']",boat,boat,boat,['--'],"['with', 'a', 'red', 'buoy']","['colour', 'with', 'part_or_object']",--,with a red buoy,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5384,8998977,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the boat with the red circle,the boat with the red circle,"[('the', 'DT'), ('boat', 'NN'), ('with', 'IN'), ('the', 'DT'), ('red', 'JJ'), ('circle', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN boat))
+    (PP (IN with)
+      (NP (DT the) (JJ red) (NN circle)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'boat', 'with', 'the', 'red', 'circle']",boat,boat,boat,['--'],"['with', 'the', 'red', 'circle']","['colour', 'shape', 'with', 'part_or_object']",--,with the red circle,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'shape', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5579,5475717,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the tug boat with a visible red life preserver on the stern,the tug boat with a visible red life preserver on the stern,"[('the', 'DT'), ('tug', 'NN'), ('boat', 'NN'), ('with', 'IN'), ('a', 'DT'), ('visible', 'JJ'), ('red', 'JJ'), ('life', 'NN'), ('preserver', 'NN'), ('on', 'IN'), ('the', 'DT'), ('stern', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN tug) (NN boat))
+    (PP (IN with)
+      (NP
+        (NP (DT a) (JJ visible) (JJ red) (NN life) (NN preserver))
+        (PP (IN on)
+          (NP (DT the) (NN stern)))))))","[(ROOT, 0, 3), (det, 3, 1), (compound, 3, 2), (case, 9, 4), (det, 9, 5), (amod, 9, 6), (amod, 8, 7), (compound, 9, 8), (nmod, 3, 9), (case, 12, 10), (det, 12, 11), (nmod, 9, 12)]","['DT', 'NN', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NN']","['the', 'tug', 'boat', 'with', 'a', 'visible', 'red', 'life', 'preserver', 'on', 'the', 'stern']",boat,tug boat,boat,['tug'],"['with', 'a', 'visible', 'red', 'life', 'preserver', 'on', 'the', 'stern']","['colour', 'position', 'with', 'part_or_object']",tug,with a visible red life preserver on the stern,"['DT', 'NN']","['IN', 'DT', 'JJ', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NN']",['--'],"['colour', 'position', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+1361,3839629,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the boat with a visible red life preserver,the boat with a visible red life preserver,"[('the', 'DT'), ('boat', 'NN'), ('with', 'IN'), ('a', 'DT'), ('visible', 'JJ'), ('red', 'JJ'), ('life', 'NN'), ('preserver', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN boat))
+    (PP (IN with)
+      (NP (DT a) (JJ visible) (JJ red) (NN life) (NN preserver)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 8, 3), (det, 8, 4), (amod, 8, 5), (amod, 7, 6), (compound, 8, 7), (nmod, 2, 8)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'NN']","['the', 'boat', 'with', 'a', 'visible', 'red', 'life', 'preserver']",boat,boat,boat,['--'],"['with', 'a', 'visible', 'red', 'life', 'preserver']","['colour', 'with', 'part_or_object']",--,with a visible red life preserver,['DT'],"['IN', 'DT', 'JJ', 'JJ', 'NN', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2979,8340084,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the boat with life ring,the boat with life ring,"[('the', 'DT'), ('boat', 'NN'), ('with', 'IN'), ('life', 'NN'), ('ring', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN boat))
+    (PP (IN with)
+      (NP (NN life) (NN ring)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (compound, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'NN', 'NN']","['the', 'boat', 'with', 'life', 'ring']",boat,boat,boat,['--'],"['with', 'life', 'ring']","['shape', 'with', 'part_or_object']",--,with life ring,['DT'],"['IN', 'NN', 'NN']",['--'],"['shape', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+442,3994550,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the boat with the orange life saving device,the boat with the orange life saving device,"[('the', 'DT'), ('boat', 'NN'), ('with', 'IN'), ('the', 'DT'), ('orange', 'JJ'), ('life', 'NN'), ('saving', 'VBG'), ('device', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN boat))
+    (PP (IN with)
+      (NP (DT the) (JJ orange)
+        (ADJP (NN life) (VBG saving))
+        (NN device)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 8, 3), (det, 8, 4), (amod, 6, 5), (compound, 8, 6), (amod, 8, 7), (nmod, 2, 8)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'VBG', 'NN']","['the', 'boat', 'with', 'the', 'orange', 'life', 'saving', 'device']",boat,boat,boat,['--'],"['with', 'the', 'orange', 'life', 'saving', 'device']","['colour', 'action', 'with', 'part_or_object']",--,with the orange life saving device,['DT'],"['IN', 'DT', 'JJ', 'NN', 'VBG', 'NN']",['--'],"['colour', 'action', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,True,True,True,False,False,True
+2079,6009880,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the boat with red stripe,the boat with red stripe,"[('the', 'DT'), ('boat', 'NN'), ('with', 'IN'), ('red', 'JJ'), ('stripe', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN boat))
+    (PP (IN with)
+      (NP (JJ red) (NN stripe)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'boat', 'with', 'red', 'stripe']",boat,boat,boat,['--'],"['with', 'red', 'stripe']","['colour', 'with', 'part_or_object']",--,with red stripe,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4929,2952461,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the boat with silver lifesaver ring on back,the boat with silver lifesaver ring on back,"[('the', 'DT'), ('boat', 'NN'), ('with', 'IN'), ('silver', 'NN'), ('lifesaver', 'NN'), ('ring', 'NN'), ('on', 'IN'), ('back', 'RB')]","(ROOT
+  (NP
+    (NP (DT the) (NN boat))
+    (PP (IN with)
+      (NP
+        (NP (NN silver) (NN lifesaver) (NN ring))
+        (PP (IN on)
+          (ADVP (RB back)))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (compound, 5, 4), (compound, 6, 5), (nmod, 2, 6), (case, 8, 7), (advmod, 6, 8)]","['DT', 'NN', 'IN', 'NN', 'NN', 'NN', 'IN', 'RB']","['the', 'boat', 'with', 'silver', 'lifesaver', 'ring', 'on', 'back']",boat,boat,boat,['--'],"['with', 'silver', 'lifesaver', 'ring', 'on', 'back']","['colour', 'shape', 'position', 'position', 'with', 'part_or_object']",--,with silver lifesaver ring on back,['DT'],"['IN', 'NN', 'NN', 'NN', 'IN', 'RB']",['--'],"['colour', 'shape', 'position', 'position', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+3144,3233928,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the boat with life jacket ring,the boat with life jacket ring,"[('the', 'DT'), ('boat', 'NN'), ('with', 'IN'), ('life', 'NN'), ('jacket', 'NN'), ('ring', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN boat))
+    (PP (IN with)
+      (NP (NN life) (NN jacket) (NN ring)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (compound, 5, 4), (compound, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'NN', 'NN', 'NN']","['the', 'boat', 'with', 'life', 'jacket', 'ring']",boat,boat,boat,['--'],"['with', 'life', 'jacket', 'ring']","['shape', 'with', 'part_or_object']",--,with life jacket ring,['DT'],"['IN', 'NN', 'NN', 'NN']",['--'],"['shape', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+1068,3169918,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the boat with the red lifesaver,the boat with the red lifesaver,"[('the', 'DT'), ('boat', 'NN'), ('with', 'IN'), ('the', 'DT'), ('red', 'JJ'), ('lifesaver', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN boat))
+    (PP (IN with)
+      (NP (DT the) (JJ red) (NN lifesaver)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'boat', 'with', 'the', 'red', 'lifesaver']",boat,boat,boat,['--'],"['with', 'the', 'red', 'lifesaver']","['colour', 'with', 'part_or_object']",--,with the red lifesaver,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+1924,9850829,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the boat with red life preserver,the boat with red life preserver,"[('the', 'DT'), ('boat', 'NN'), ('with', 'IN'), ('red', 'JJ'), ('life', 'NN'), ('preserver', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN boat))
+    (PP (IN with)
+      (NP (JJ red) (NN life) (NN preserver)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (amod, 5, 4), (compound, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'JJ', 'NN', 'NN']","['the', 'boat', 'with', 'red', 'life', 'preserver']",boat,boat,boat,['--'],"['with', 'red', 'life', 'preserver']","['colour', 'with', 'part_or_object']",--,with red life preserver,['DT'],"['IN', 'JJ', 'NN', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4580,8243240,boat_ship_ambi_unspec_2806560.png,boat,ship,unsp,the boat with a red life preserver,the boat with a red life preserver,"[('the', 'DT'), ('boat', 'NN'), ('with', 'IN'), ('a', 'DT'), ('red', 'JJ'), ('life', 'NN'), ('preserver', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN boat))
+    (PP (IN with)
+      (NP (DT a) (JJ red) (NN life) (NN preserver)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 7, 3), (det, 7, 4), (amod, 6, 5), (compound, 7, 6), (nmod, 2, 7)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN']","['the', 'boat', 'with', 'a', 'red', 'life', 'preserver']",boat,boat,boat,['--'],"['with', 'a', 'red', 'life', 'preserver']","['colour', 'with', 'part_or_object']",--,with a red life preserver,['DT'],"['IN', 'DT', 'JJ', 'NN', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+6745,1504427,building_church_ambi_unspec_2275493.png,building,church,unsp,the building with largest clock visible,the building with largest clock visible,"[('the', 'DT'), ('building', 'NN'), ('with', 'IN'), ('largest', 'JJS'), ('clock', 'NN'), ('visible', 'JJ')]","(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN building))
+      (PP (IN with)
+        (NP (JJS largest) (NN clock))))
+    (ADJP (JJ visible))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5), (amod, 5, 6)]","['DT', 'NN', 'IN', 'JJS', 'NN', 'JJ']","['the', 'building', 'with', 'largest', 'clock', 'visible']",building,building,building,['--'],"['with', 'largest', 'clock', 'visible']","['size', 'with', 'part_or_object']",--,with largest clock visible,['DT'],"['IN', 'JJS', 'NN', 'JJ']",['--'],"['size', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4930,2952461,building_church_ambi_unspec_2275493.png,building,church,unsp,the church with largest clock,the church with largest clock,"[('the', 'DT'), ('church', 'NN'), ('with', 'IN'), ('largest', 'JJS'), ('clock', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN church))
+    (PP (IN with)
+      (NP (JJS largest) (NN clock)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJS', 'NN']","['the', 'church', 'with', 'largest', 'clock']",church,church,church,['--'],"['with', 'largest', 'clock']","['size', 'with', 'part_or_object']",--,with largest clock,['DT'],"['IN', 'JJS', 'NN']",['--'],"['size', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+1317,3839629,building_restaurant_ambi_unspec_3926233.png,building,restaurant,unsp,the building with the sign that says lobster pot,the building with the sign that says lobster pot,"[('the', 'DT'), ('building', 'NN'), ('with', 'IN'), ('the', 'DT'), ('sign', 'NN'), ('that', 'WDT'), ('says', 'VBZ'), ('lobster', 'NN'), ('pot', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN building))
+    (PP (IN with)
+      (NP
+        (NP (DT the) (NN sign))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ says)
+              (NP (NN lobster) (NN pot)))))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (det, 5, 4), (nmod, 2, 5), (nsubj, 7, 6), (acl:relcl, 5, 7), (compound, 9, 8), (obj, 7, 9)]","['DT', 'NN', 'IN', 'DT', 'NN', 'WDT', 'VBZ', 'NN', 'NN']","['the', 'building', 'with', 'the', 'sign', 'that', 'says', 'lobster', 'pot']",building,building,building,['--'],"['with', 'the', 'sign', 'that', 'says', 'lobster', 'pot']","['state_verb', 'with', 'text', 'part_or_object']",--,with the sign that says lobster pot,['DT'],"['IN', 'DT', 'NN', 'WDT', 'VBZ', 'NN', 'NN']",['--'],"['state_verb', 'with', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,True,False,True,True,True,False,False,True
+5141,5264234,building_restaurant_ambi_unspec_3926233.png,building,restaurant,unsp,the building with light settings,the building with light settings,"[('the', 'DT'), ('building', 'NN'), ('with', 'IN'), ('light', 'JJ'), ('settings', 'NNS')]","(ROOT
+  (NP
+    (NP (DT the) (NN building))
+    (PP (IN with)
+      (NP (JJ light) (NNS settings)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NNS']","['the', 'building', 'with', 'light', 'settings']",building,building,building,['--'],"['with', 'light', 'settings']","['colour', 'with', 'part_or_object']",--,with light settings,['DT'],"['IN', 'JJ', 'NNS']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5859,3031632,building_restaurant_ambi_unspec_3926233.png,building,restaurant,unsp,the restaurant with neon sign,the resturant with neon sign,"[('the', 'DT'), ('restaurant', 'NN'), ('with', 'IN'), ('neon', 'NN'), ('sign', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN restaurant))
+    (PP (IN with)
+      (NP (NN neon) (NN sign)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (compound, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'NN', 'NN']","['the', 'restaurant', 'with', 'neon', 'sign']",restaurant,restaurant,restaurant,['--'],"['with', 'neon', 'sign']","['material', 'with', 'part_or_object']",--,with neon sign,['DT'],"['IN', 'NN', 'NN']",['--'],"['material', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5584,5475717,building_restaurant_ambi_unspec_3926233.png,building,restaurant,unsp,the restaurant with the sign Lobster Pot,"the restaurant with the sign, Lobster Pot","[('the', 'DT'), ('restaurant', 'NN'), ('with', 'IN'), ('the', 'DT'), ('sign', 'NN'), ('lobster', 'NN'), ('pot', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN restaurant))
+    (PP (IN with)
+      (NP (DT the) (NN sign) (NN lobster) (NN pot)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 7, 3), (det, 7, 4), (compound, 7, 5), (compound, 7, 6), (nmod, 2, 7)]","['DT', 'NN', 'IN', 'DT', 'NN', 'NN', 'NN']","['the', 'restaurant', 'with', 'the', 'sign', 'lobster', 'pot']",restaurant,restaurant,restaurant,['--'],"['with', 'the', 'sign', 'lobster', 'pot']","['with', 'text', 'part_or_object']",--,with the sign lobster pot,['DT'],"['IN', 'DT', 'NN', 'NN', 'NN']",['--'],"['with', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+1652,8041092,building_restaurant_ambi_unspec_3926233.png,building,restaurant,unsp,the restaurant with light on,the restaurant with light on,"[('the', 'DT'), ('restaurant', 'NN'), ('with', 'IN'), ('light', 'NN'), ('on', 'IN')]","(ROOT
+  (FRAG
+    (NP
+      (NP (DT the) (NN restaurant))
+      (PP (IN with)
+        (NP (NN light))))
+    (PP (IN on))))","[(ROOT, 0, 2), (det, 2, 1), (case, 4, 3), (nmod, 2, 4), (dep, 2, 5)]","['DT', 'NN', 'IN', 'NN', 'IN']","['the', 'restaurant', 'with', 'light', 'on']",restaurant,restaurant,restaurant,['--'],"['with', 'light', 'on']","['colour', 'position', 'with', 'part_or_object']",--,with light on,['DT'],"['IN', 'NN', 'IN']",['--'],"['colour', 'position', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+6326,1820290,building_restaurant_ambi_unspec_3926233.png,building,restaurant,unsp,the white shop with a red banner,the white shop with a red banner,"[('the', 'DT'), ('white', 'JJ'), ('shop', 'NN'), ('with', 'IN'), ('a', 'DT'), ('red', 'JJ'), ('banner', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (JJ white) (NN shop))
+    (PP (IN with)
+      (NP (DT a) (JJ red) (NN banner)))))","[(ROOT, 0, 3), (det, 3, 1), (amod, 3, 2), (case, 7, 4), (det, 7, 5), (amod, 7, 6), (nmod, 3, 7)]","['DT', 'JJ', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'white', 'shop', 'with', 'a', 'red', 'banner']",shop,shop,shop,['white'],"['with', 'a', 'red', 'banner']","['colour', 'colour', 'with', 'part_or_object']",white,with a red banner,"['DT', 'JJ']","['IN', 'DT', 'JJ', 'NN']",['colour'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,True,False,False,False,True,False,False,True,True,True,False,False
+3105,3233928,car_taxi_ambi_unspec_642545.png,car,taxi,unsp,the car without nyc T logo,the car without Nyc T logo,"[('the', 'DT'), ('car', 'NN'), ('without', 'IN'), ('nyc', 'JJ'), ('t', 'NN'), ('logo', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN car))
+    (PP (IN without)
+      (NP (JJ nyc) (NN t) (NN logo)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (amod, 6, 4), (compound, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'JJ', 'NN', 'NN']","['the', 'car', 'without', 'nyc', 't', 'logo']",car,car,car,['--'],"['without', 'nyc', 't', 'logo']","['with', 'text', 'part_or_object']",--,without nyc t logo,['DT'],"['IN', 'JJ', 'NN', 'NN']",['--'],"['with', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5554,5475717,car_taxi_ambi_unspec_642545.png,car,taxi,unsp,the yellow cab taxi with the number 83,the yellow cab taxi with the number 83,"[('the', 'DT'), ('yellow', 'JJ'), ('cab', 'NN'), ('taxi', 'NN'), ('with', 'IN'), ('the', 'DT'), ('number', 'NN'), ('83', 'CD')]","(ROOT
+  (NP
+    (NP (DT the) (JJ yellow) (NN cab) (NN taxi))
+    (PP (IN with)
+      (NP (DT the) (NN number) (CD 83)))))","[(ROOT, 0, 4), (det, 4, 1), (amod, 4, 2), (compound, 4, 3), (case, 7, 5), (det, 7, 6), (nmod, 4, 7), (nummod, 7, 8)]","['DT', 'JJ', 'NN', 'NN', 'IN', 'DT', 'NN', 'CD']","['the', 'yellow', 'cab', 'taxi', 'with', 'the', 'number', '83']",taxi,cab taxi,taxi,"['yellow', 'cab']","['with', 'the', 'number', '83']","['colour', 'with', 'text', 'part_or_object']",yellow cab,with the number 83,"['DT', 'JJ', 'NN']","['IN', 'DT', 'NN', 'CD']",['colour'],"['with', 'text', 'part_or_object']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,True,False,False,False,True,False,False,True,True,True,False,False
+5110,4715719,car_taxi_ambi_unspec_642545.png,car,taxi,unsp,the taxi with the code bJ83,the taxi with the code bJ83,"[('the', 'DT'), ('taxi', 'NN'), ('with', 'IN'), ('the', 'DT'), ('code', 'NN'), ('bj83', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN taxi))
+    (PP (IN with)
+      (NP (DT the) (NN code) (NN bj83)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (compound, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'NN', 'NN']","['the', 'taxi', 'with', 'the', 'code', 'bj83']",taxi,taxi,taxi,['--'],"['with', 'the', 'code', 'bj83']","['with', 'text', 'part_or_object']",--,with the code bj83,['DT'],"['IN', 'DT', 'NN', 'NN']",['--'],"['with', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+6721,1504427,car_taxi_ambi_unspec_642545.png,car,taxi,unsp,cab with bj83,cab with bj83,"[('cab', 'NN'), ('with', 'IN'), ('bj83', 'NN')]","(ROOT
+  (NP
+    (NP (NN cab))
+    (PP (IN with)
+      (NP (NN bj83)))))","[(ROOT, 0, 1), (case, 3, 2), (nmod, 1, 3)]","['NN', 'IN', 'NN']","['cab', 'with', 'bj83']",cab,cab,cab,"['with', 'bj83']","['with', 'bj83']","['with', 'text']",with bj83,with bj83,[],"['IN', 'NN']","['with', 'text']","['with', 'text']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,True,False,False,True,True,False,False,True,True,True,False,False
+2271,6047398,car_taxi_ambi_unspec_642545.png,car,taxi,unsp,the cab with the black wheel,the cab with the black wheel,"[('the', 'DT'), ('cab', 'NN'), ('with', 'IN'), ('the', 'DT'), ('black', 'JJ'), ('wheel', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN cab))
+    (PP (IN with)
+      (NP (DT the) (JJ black) (NN wheel)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'cab', 'with', 'the', 'black', 'wheel']",cab,cab,cab,['--'],"['with', 'the', 'black', 'wheel']","['colour', 'with', 'part_or_object']",--,with the black wheel,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+3485,7064640,car_taxi_ambi_unspec_642545.png,car,taxi,unsp,the the cab which has bJ83 as the serial on the door,the the cab which has bJ83 as the serial on the door.,"[('the', 'DT'), ('the', 'DT'), ('cab', 'NN'), ('which', 'WDT'), ('has', 'VBZ'), ('bj83', 'VBN'), ('as', 'IN'), ('the', 'DT'), ('serial', 'JJ'), ('on', 'IN'), ('the', 'DT'), ('door', 'NN')]","(ROOT
+  (X
+    (X (DT the))
+    (NP
+      (NP (DT the) (NN cab))
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ has)
+            (VP (VBN bj83)
+              (PP (IN as)
+                (NP (DT the) (JJ serial)))
+              (PP (IN on)
+                (NP (DT the) (NN door))))))))))","[(ROOT, 0, 3), (det, 3, 1), (det, 3, 2), (nsubj, 6, 4), (aux, 6, 5), (acl:relcl, 3, 6), (case, 9, 7), (det, 9, 8), (obl, 6, 9), (case, 12, 10), (det, 12, 11), (nmod, 9, 12)]","['DT', 'DT', 'NN', 'WDT', 'VBZ', 'VBN', 'IN', 'DT', 'JJ', 'IN', 'DT', 'NN']","['the', 'the', 'cab', 'which', 'has', 'bj83', 'as', 'the', 'serial', 'on', 'the', 'door']",cab,cab,cab,['the'],"['which', 'has', 'bj83', 'as', 'the', 'serial', 'on', 'the', 'door']","['position', 'state_verb', 'state_verb', 'text', 'part_or_object']",the,which has bj83 as the serial on the door,"['DT', 'DT']","['WDT', 'VBZ', 'VBN', 'IN', 'DT', 'JJ', 'IN', 'DT', 'NN']",['--'],"['position', 'state_verb', 'state_verb', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,False,False,False,False,True,True,True,True,True,False,False,True
+5790,5972498,chair_armchair_ambi_unspec_3410260.png,chair,armchair,unsp,the sofa chair on the right in front of the white and green lamp,the sofa chair on the right infront of the white and green lamp,"[('the', 'DT'), ('sofa', 'NN'), ('chair', 'NN'), ('on', 'IN'), ('the', 'DT'), ('right', 'NN'), ('in', 'IN'), ('front', 'NN'), ('of', 'IN'), ('the', 'DT'), ('white', 'JJ'), ('and', 'CC'), ('green', 'JJ'), ('lamp', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN sofa) (NN chair))
+    (PP (IN on)
+      (NP
+        (NP (DT the) (NN right))
+        (PP (IN in)
+          (NP
+            (NP (NN front))
+            (PP (IN of)
+              (NP (DT the)
+                (ADJP (JJ white)
+                  (CC and)
+                  (JJ green))
+                (NN lamp)))))))))","[(ROOT, 0, 3), (det, 3, 1), (compound, 3, 2), (case, 6, 4), (det, 6, 5), (nmod, 3, 6), (case, 8, 7), (nmod, 6, 8), (case, 14, 9), (det, 14, 10), (amod, 14, 11), (cc, 13, 12), (conj, 11, 13), (nmod, 8, 14)]","['DT', 'NN', 'NN', 'IN', 'DT', 'NN', 'IN', 'NN', 'IN', 'DT', 'JJ', 'CC', 'JJ', 'NN']","['the', 'sofa', 'chair', 'on', 'the', 'right', 'in', 'front', 'of', 'the', 'white', 'and', 'green', 'lamp']",chair,sofa chair,chair,['sofa'],"['on', 'the', 'right', 'in', 'front', 'of', 'the', 'white', 'and', 'green', 'lamp']","['position', 'position', 'position', 'colour', 'colour', 'part_or_object']",sofa,on the right in front of the white and green lamp,"['DT', 'NN']","['IN', 'DT', 'NN', 'IN', 'NN', 'IN', 'DT', 'JJ', 'CC', 'JJ', 'NN']",['--'],"['position', 'position', 'position', 'colour', 'colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+6150,3096867,chair_armchair_ambi_unspec_3410260.png,chair,armchair,unsp,the chair under the green lamp,the chair under the green lamp,"[('the', 'DT'), ('chair', 'NN'), ('under', 'IN'), ('the', 'DT'), ('green', 'JJ'), ('lamp', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN chair))
+    (PP (IN under)
+      (NP (DT the) (JJ green) (NN lamp)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'chair', 'under', 'the', 'green', 'lamp']",chair,chair,chair,['--'],"['under', 'the', 'green', 'lamp']","['position', 'colour', 'part_or_object']",--,under the green lamp,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['position', 'colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+2465,8605037,chair_armchair_ambi_unspec_3410260.png,chair,armchair,unsp,the couch with neat cover,the couch with neat cover,"[('the', 'DT'), ('couch', 'NN'), ('with', 'IN'), ('neat', 'JJ'), ('cover', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN couch))
+    (PP (IN with)
+      (NP (JJ neat) (NN cover)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'couch', 'with', 'neat', 'cover']",couch,couch,couch,['--'],"['with', 'neat', 'cover']","['visual_pattern', 'with', 'part_or_object']",--,with neat cover,['DT'],"['IN', 'JJ', 'NN']",['--'],"['visual_pattern', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,False,False,False,False,True,False,False,True,True,False,False,True
+3604,4064012,chair_armchair_ambi_unspec_3410260.png,chair,armchair,unsp,the chair in front of the green lamp,the chair in front of the green lamp,"[('the', 'DT'), ('chair', 'NN'), ('in', 'IN'), ('front', 'NN'), ('of', 'IN'), ('the', 'DT'), ('green', 'JJ'), ('lamp', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN chair))
+    (PP (IN in)
+      (NP
+        (NP (NN front))
+        (PP (IN of)
+          (NP (DT the) (JJ green) (NN lamp)))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 4, 3), (nmod, 2, 4), (case, 8, 5), (det, 8, 6), (amod, 8, 7), (nmod, 4, 8)]","['DT', 'NN', 'IN', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'chair', 'in', 'front', 'of', 'the', 'green', 'lamp']",chair,chair,chair,['--'],"['in', 'front', 'of', 'the', 'green', 'lamp']","['position', 'colour', 'part_or_object']",--,in front of the green lamp,['DT'],"['IN', 'NN', 'IN', 'DT', 'JJ', 'NN']",['--'],"['position', 'colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+5734,9445150,chair_armchair_ambi_unspec_3410260.png,chair,armchair,unsp,the chair with neat blanket,the chair with neat blanket,"[('the', 'DT'), ('chair', 'NN'), ('with', 'IN'), ('neat', 'JJ'), ('blanket', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN chair))
+    (PP (IN with)
+      (NP (JJ neat) (NN blanket)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'chair', 'with', 'neat', 'blanket']",chair,chair,chair,['--'],"['with', 'neat', 'blanket']","['visual_pattern', 'with', 'part_or_object']",--,with neat blanket,['DT'],"['IN', 'JJ', 'NN']",['--'],"['visual_pattern', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,False,False,False,False,True,False,False,True,True,False,False,True
+2743,2949171,chair_armchair_ambi_unspec_3410260.png,chair,armchair,unsp,the chair in front of green lamp,the chair in front of green lamp,"[('the', 'DT'), ('chair', 'NN'), ('in', 'IN'), ('front', 'NN'), ('of', 'IN'), ('green', 'JJ'), ('lamp', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN chair))
+    (PP (IN in)
+      (NP
+        (NP (NN front))
+        (PP (IN of)
+          (NP (JJ green) (NN lamp)))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 4, 3), (nmod, 2, 4), (case, 7, 5), (amod, 7, 6), (nmod, 4, 7)]","['DT', 'NN', 'IN', 'NN', 'IN', 'JJ', 'NN']","['the', 'chair', 'in', 'front', 'of', 'green', 'lamp']",chair,chair,chair,['--'],"['in', 'front', 'of', 'green', 'lamp']","['position', 'colour', 'part_or_object']",--,in front of green lamp,['DT'],"['IN', 'NN', 'IN', 'JJ', 'NN']",['--'],"['position', 'colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+5378,8998977,chair_armchair_ambi_unspec_3410260.png,chair,armchair,unsp,the the chair with a more orderly blanket,the the chair with a more orderly blanket,"[('the', 'DT'), ('the', 'DT'), ('chair', 'NN'), ('with', 'IN'), ('a', 'DT'), ('more', 'RBR'), ('orderly', 'JJ'), ('blanket', 'NN')]","(ROOT
+  (X
+    (X (DT the))
+    (NP
+      (NP (DT the) (NN chair))
+      (PP (IN with)
+        (NP (DT a)
+          (ADJP (RBR more) (JJ orderly))
+          (NN blanket))))))","[(ROOT, 0, 3), (det, 3, 1), (det, 3, 2), (case, 8, 4), (det, 8, 5), (advmod, 7, 6), (amod, 8, 7), (nmod, 3, 8)]","['DT', 'DT', 'NN', 'IN', 'DT', 'RBR', 'JJ', 'NN']","['the', 'the', 'chair', 'with', 'a', 'more', 'orderly', 'blanket']",chair,chair,chair,['the'],"['with', 'a', 'more', 'orderly', 'blanket']","['visual_pattern', 'with', 'part_or_object']",the,with a more orderly blanket,"['DT', 'DT']","['IN', 'DT', 'RBR', 'JJ', 'NN']",['--'],"['visual_pattern', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,False,False,False,False,True,False,False,True,True,False,False,True
+4943,2952461,chair_armchair_ambi_unspec_3410260.png,chair,armchair,unsp,the chair with neatest seat pad,the chair with neatest seat pad,"[('the', 'DT'), ('chair', 'NN'), ('with', 'IN'), ('neatest', 'JJS'), ('seat', 'NN'), ('pad', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN chair))
+    (PP (IN with)
+      (NP
+        (NP (JJS neatest))
+        (NP (NN seat) (NN pad))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (amod, 6, 4), (compound, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'JJS', 'NN', 'NN']","['the', 'chair', 'with', 'neatest', 'seat', 'pad']",chair,chair,chair,['--'],"['with', 'neatest', 'seat', 'pad']","['visual_pattern', 'with', 'part_or_object']",--,with neatest seat pad,['DT'],"['IN', 'JJS', 'NN', 'NN']",['--'],"['visual_pattern', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,False,False,False,False,True,False,False,True,True,False,False,True
+4291,7143428,chair_officechair_ambi_unspec_1564127.png,chair,officechair,unsp,the chair with the back rest on the lowest position,the chair with the back rest on the lowest postion,"[('the', 'DT'), ('chair', 'NN'), ('with', 'IN'), ('the', 'DT'), ('back', 'NN'), ('rest', 'NN'), ('on', 'IN'), ('the', 'DT'), ('lowest', 'JJS'), ('position', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN chair))
+    (PP (IN with)
+      (NP
+        (NP (DT the) (NN back) (NN rest))
+        (PP (IN on)
+          (NP (DT the) (JJS lowest) (NN position)))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (compound, 6, 5), (nmod, 2, 6), (case, 10, 7), (det, 10, 8), (amod, 10, 9), (nmod, 2, 10)]","['DT', 'NN', 'IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'JJS', 'NN']","['the', 'chair', 'with', 'the', 'back', 'rest', 'on', 'the', 'lowest', 'position']",chair,chair,chair,['--'],"['with', 'the', 'back', 'rest', 'on', 'the', 'lowest', 'position']","['position', 'position', 'size', 'with']",--,with the back rest on the lowest position,['DT'],"['IN', 'DT', 'NN', 'NN', 'IN', 'DT', 'JJS', 'NN']",['--'],"['position', 'position', 'size', 'with']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+5085,4715719,chair_officechair_ambi_unspec_1564127.png,chair,officechair,unsp,the chair with the lowest seat,the chair with the lowest seat,"[('the', 'DT'), ('chair', 'NN'), ('with', 'IN'), ('the', 'DT'), ('lowest', 'JJS'), ('seat', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN chair))
+    (PP (IN with)
+      (NP (DT the) (JJS lowest) (NN seat)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJS', 'NN']","['the', 'chair', 'with', 'the', 'lowest', 'seat']",chair,chair,chair,['--'],"['with', 'the', 'lowest', 'seat']","['size', 'with', 'part_or_object']",--,with the lowest seat,['DT'],"['IN', 'DT', 'JJS', 'NN']",['--'],"['size', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5544,5475717,chair_officechair_ambi_unspec_1564127.png,chair,officechair,unsp,the blue swivel chair that is the shortest of the chairs,the blue swivel chair that is the shortest of the chairs,"[('the', 'DT'), ('blue', 'JJ'), ('swivel', 'NN'), ('chair', 'NN'), ('that', 'WDT'), ('is', 'VBZ'), ('the', 'DT'), ('shortest', 'JJS'), ('of', 'IN'), ('the', 'DT'), ('chairs', 'NNS')]","(ROOT
+  (NP
+    (NP (DT the) (JJ blue) (NN swivel) (NN chair))
+    (SBAR
+      (WHNP (WDT that))
+      (S
+        (VP (VBZ is)
+          (NP
+            (NP (DT the) (JJS shortest))
+            (PP (IN of)
+              (NP (DT the) (NNS chairs)))))))))","[(ROOT, 0, 4), (det, 4, 1), (amod, 4, 2), (compound, 4, 3), (nsubj, 8, 5), (cop, 8, 6), (det, 8, 7), (acl:relcl, 4, 8), (case, 11, 9), (det, 11, 10), (nmod, 8, 11)]","['DT', 'JJ', 'NN', 'NN', 'WDT', 'VBZ', 'DT', 'JJS', 'IN', 'DT', 'NNS']","['the', 'blue', 'swivel', 'chair', 'that', 'is', 'the', 'shortest', 'of', 'the', 'chairs']",chair,swivel chair,chair,"['blue', 'swivel']","['that', 'is', 'the', 'shortest', 'of', 'the', 'chairs']","['colour', 'size', 'state_verb', 'part_or_object']",blue swivel,that is the shortest of the chairs,"['DT', 'JJ', 'NN']","['WDT', 'VBZ', 'DT', 'JJS', 'IN', 'DT', 'NNS']",['colour'],"['size', 'state_verb', 'part_or_object']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,True,False,False,False,True,False,True,True,True,True,False,False
+5711,9445150,chair_officechair_ambi_unspec_1564127.png,chair,officechair,unsp,the chair by the lower desk,the chair by the lower desk,"[('the', 'DT'), ('chair', 'NN'), ('by', 'IN'), ('the', 'DT'), ('lower', 'JJR'), ('desk', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN chair))
+    (PP (IN by)
+      (NP (DT the) (JJR lower) (NN desk)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJR', 'NN']","['the', 'chair', 'by', 'the', 'lower', 'desk']",chair,chair,chair,['--'],"['by', 'the', 'lower', 'desk']","['position', 'size', 'part_or_object']",--,by the lower desk,['DT'],"['IN', 'DT', 'JJR', 'NN']",['--'],"['position', 'size', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+1346,3839629,chair_officechair_ambi_unspec_1564127.png,chair,officechair,unsp,the chair with wheels that is set to the shortest,the chair with wheels that is set to the shortest,"[('the', 'DT'), ('chair', 'NN'), ('with', 'IN'), ('wheels', 'NNS'), ('that', 'WDT'), ('is', 'VBZ'), ('set', 'VBN'), ('to', 'IN'), ('the', 'DT'), ('shortest', 'JJS')]","(ROOT
+  (NP
+    (NP (DT the) (NN chair))
+    (PP (IN with)
+      (NP
+        (NP (NNS wheels))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ is)
+              (VP (VBN set)
+                (PP (IN to)
+                  (NP (DT the) (JJS shortest)))))))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 4, 3), (nmod, 2, 4), (nsubj:pass, 7, 5), (aux:pass, 7, 6), (dep, 2, 7), (case, 10, 8), (det, 10, 9), (obl, 7, 10)]","['DT', 'NN', 'IN', 'NNS', 'WDT', 'VBZ', 'VBN', 'IN', 'DT', 'JJS']","['the', 'chair', 'with', 'wheels', 'that', 'is', 'set', 'to', 'the', 'shortest']",chair,chair,chair,['--'],"['with', 'wheels', 'that', 'is', 'set', 'to', 'the', 'shortest']","['size', 'state_verb', 'state_verb', 'with', 'part_or_object']",--,with wheels that is set to the shortest,['DT'],"['IN', 'NNS', 'WDT', 'VBZ', 'VBN', 'IN', 'DT', 'JJS']",['--'],"['size', 'state_verb', 'state_verb', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,False,False,False,False,True,False,True,True,True,False,False,True
+4476,8598940,cow_calf_ambi_unspec_1746038.png,cow,calf,unsp,the white calf with spots,the white calf with spots,"[('the', 'DT'), ('white', 'JJ'), ('calf', 'NN'), ('with', 'IN'), ('spots', 'NNS')]","(ROOT
+  (NP
+    (NP (DT the) (JJ white) (NN calf))
+    (PP (IN with)
+      (NP (NNS spots)))))","[(ROOT, 0, 3), (det, 3, 1), (amod, 3, 2), (case, 5, 4), (nmod, 3, 5)]","['DT', 'JJ', 'NN', 'IN', 'NNS']","['the', 'white', 'calf', 'with', 'spots']",calf,calf,calf,['white'],"['with', 'spots']","['colour', 'colour', 'with', 'part_or_object']",white,with spots,"['DT', 'JJ']","['IN', 'NNS']",['colour'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,True,False,False,False,True,False,False,True,True,True,False,False
+5575,5475717,cow_calf_ambi_unspec_1746038.png,cow,calf,unsp,the mostly white calf with an all white face,the mostly white calf with an all white face,"[('the', 'DT'), ('mostly', 'RB'), ('white', 'JJ'), ('calf', 'NN'), ('with', 'IN'), ('an', 'DT'), ('all', 'DT'), ('white', 'JJ'), ('face', 'NN')]","(ROOT
+  (NP
+    (NP (DT the)
+      (ADJP (RB mostly) (JJ white))
+      (NN calf))
+    (PP (IN with)
+      (NP (DT an)
+        (NML (DT all) (JJ white))
+        (NN face)))))","[(ROOT, 0, 4), (det, 4, 1), (advmod, 3, 2), (amod, 4, 3), (case, 9, 5), (det, 9, 6), (det, 9, 7), (amod, 9, 8), (nmod, 4, 9)]","['DT', 'RB', 'JJ', 'NN', 'IN', 'DT', 'DT', 'JJ', 'NN']","['the', 'mostly', 'white', 'calf', 'with', 'an', 'all', 'white', 'face']",calf,calf,calf,"['mostly', 'white']","['with', 'an', 'all', 'white', 'face']","['colour', 'colour', 'with', 'part_or_object']",mostly white,with an all white face,"['DT', 'RB', 'JJ']","['IN', 'DT', 'DT', 'JJ', 'NN']",['colour'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,True,False,False,False,True,False,False,True,True,True,False,False
+5395,8998977,cow_calf_ambi_unspec_1746038.png,cow,calf,unsp,the cow with more spots,the cow with more spots,"[('the', 'DT'), ('cow', 'NN'), ('with', 'IN'), ('more', 'JJR'), ('spots', 'NNS')]","(ROOT
+  (NP
+    (NP (DT the) (NN cow))
+    (PP (IN with)
+      (NP (JJR more) (NNS spots)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJR', 'NNS']","['the', 'cow', 'with', 'more', 'spots']",cow,cow,cow,['--'],"['with', 'more', 'spots']","['colour', 'with', 'part_or_object']",--,with more spots,['DT'],"['IN', 'JJR', 'NNS']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4537,8243240,cow_calf_ambi_unspec_1746038.png,cow,calf,unsp,the calf with white a face,the calf with  white a face,"[('the', 'DT'), ('calf', 'NN'), ('with', 'IN'), ('white', 'JJ'), ('a', 'DT'), ('face', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN calf))
+    (PP (IN with)
+      (NP (JJ white) (DT a) (NN face)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (amod, 6, 4), (det, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'JJ', 'DT', 'NN']","['the', 'calf', 'with', 'white', 'a', 'face']",calf,calf,calf,['--'],"['with', 'white', 'a', 'face']","['colour', 'with', 'part_or_object']",--,with white a face,['DT'],"['IN', 'JJ', 'DT', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2447,8146096,cow_calf_ambi_unspec_1746038.png,cow,calf,unsp,the calf with a white face,the calf with a white face,"[('the', 'DT'), ('calf', 'NN'), ('with', 'IN'), ('a', 'DT'), ('white', 'JJ'), ('face', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN calf))
+    (PP (IN with)
+      (NP (DT a) (JJ white) (NN face)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'calf', 'with', 'a', 'white', 'face']",calf,calf,calf,['--'],"['with', 'a', 'white', 'face']","['colour', 'with', 'part_or_object']",--,with a white face,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+6464,4663449,cow_calf_ambi_unspec_1746038.png,cow,calf,unsp,the calf with a more spotty hide,the calf with a more spotty hide,"[('the', 'DT'), ('calf', 'NN'), ('with', 'IN'), ('a', 'DT'), ('more', 'RBR'), ('spotty', 'JJ'), ('hide', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN calf))
+    (PP (IN with)
+      (NP (DT a)
+        (ADJP (RBR more) (JJ spotty))
+        (NN hide)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 7, 3), (det, 7, 4), (advmod, 6, 5), (amod, 7, 6), (nmod, 2, 7)]","['DT', 'NN', 'IN', 'DT', 'RBR', 'JJ', 'NN']","['the', 'calf', 'with', 'a', 'more', 'spotty', 'hide']",calf,calf,calf,['--'],"['with', 'a', 'more', 'spotty', 'hide']","['colour', 'with', 'part_or_object']",--,with a more spotty hide,['DT'],"['IN', 'DT', 'RBR', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+1313,3839629,cow_calf_ambi_unspec_1746038.png,cow,calf,unsp,the small cow with a very white face,the small cow with a very white face,"[('the', 'DT'), ('small', 'JJ'), ('cow', 'NN'), ('with', 'IN'), ('a', 'DT'), ('very', 'RB'), ('white', 'JJ'), ('face', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (JJ small) (NN cow))
+    (PP (IN with)
+      (NP (DT a)
+        (ADJP (RB very) (JJ white))
+        (NN face)))))","[(ROOT, 0, 3), (det, 3, 1), (amod, 3, 2), (case, 8, 4), (det, 8, 5), (advmod, 7, 6), (amod, 8, 7), (nmod, 3, 8)]","['DT', 'JJ', 'NN', 'IN', 'DT', 'RB', 'JJ', 'NN']","['the', 'small', 'cow', 'with', 'a', 'very', 'white', 'face']",cow,cow,cow,['small'],"['with', 'a', 'very', 'white', 'face']","['size', 'colour', 'with', 'part_or_object']",small,with a very white face,"['DT', 'JJ']","['IN', 'DT', 'RB', 'JJ', 'NN']",['size'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,True,False,False,False,True,False,False,True,True,True,False,False
+5719,9445150,cow_calf_ambi_unspec_1746038.png,cow,calf,unsp,the baby cow with more white,the baby cow with more white,"[('the', 'DT'), ('baby', 'NN'), ('cow', 'NN'), ('with', 'IN'), ('more', 'JJR'), ('white', 'JJ')]","(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN baby) (NN cow))
+      (PP (IN with)
+        (NP (JJR more))))
+    (ADJP (JJ white))))","[(ROOT, 0, 3), (det, 3, 1), (compound, 3, 2), (case, 6, 4), (advmod, 6, 5), (nmod, 3, 6)]","['DT', 'NN', 'NN', 'IN', 'JJR', 'JJ']","['the', 'baby', 'cow', 'with', 'more', 'white']",cow,baby cow,cow,['baby'],"['with', 'more', 'white']","['age', 'colour', 'with']",baby,with more white,"['DT', 'NN']","['IN', 'JJR', 'JJ']",['age'],"['colour', 'with']",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,True,False,False,False,True,False,False,True,True,True,False,False
+5108,4715719,curtain_showercurtain_ambi_unspec_3397169.png,curtain,showercurtain,unsp,the shower curtain with print,the shower curtain with print,"[('the', 'DT'), ('shower', 'NN'), ('curtain', 'NN'), ('with', 'IN'), ('print', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN shower) (NN curtain))
+    (PP (IN with)
+      (NP (NN print)))))","[(ROOT, 0, 3), (det, 3, 1), (compound, 3, 2), (case, 5, 4), (nmod, 3, 5)]","['DT', 'NN', 'NN', 'IN', 'NN']","['the', 'shower', 'curtain', 'with', 'print']",curtain,shower curtain,curtain,['shower'],"['with', 'print']","['visual_pattern', 'with', 'part_or_object']",shower,with print,"['DT', 'NN']","['IN', 'NN']",['--'],"['visual_pattern', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,False,False,False,False,True,False,False,True,True,False,False,True
+3124,3233928,curtain_showercurtain_ambi_unspec_3397169.png,curtain,showercurtain,unsp,the curtain with pattern,the curtain with pattern,"[('the', 'DT'), ('curtain', 'NN'), ('with', 'IN'), ('pattern', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN curtain))
+    (PP (IN with)
+      (NP (NN pattern)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 4, 3), (nmod, 2, 4)]","['DT', 'NN', 'IN', 'NN']","['the', 'curtain', 'with', 'pattern']",curtain,curtain,curtain,['--'],"['with', 'pattern']","['visual_pattern', 'with', 'part_or_object']",--,with pattern,['DT'],"['IN', 'NN']",['--'],"['visual_pattern', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,False,False,False,False,True,False,False,True,True,False,False,True
+5612,5475717,curtain_showercurtain_ambi_unspec_3397169.png,curtain,showercurtain,unsp,the shower curtain with fish patterns,the shower curtain with fish patterns,"[('the', 'DT'), ('shower', 'NN'), ('curtain', 'NN'), ('with', 'IN'), ('fish', 'NN'), ('patterns', 'NNS')]","(ROOT
+  (NP
+    (NP (DT the) (NN shower) (NN curtain))
+    (PP (IN with)
+      (NP (NN fish) (NNS patterns)))))","[(ROOT, 0, 3), (det, 3, 1), (compound, 3, 2), (case, 6, 4), (compound, 6, 5), (nmod, 3, 6)]","['DT', 'NN', 'NN', 'IN', 'NN', 'NNS']","['the', 'shower', 'curtain', 'with', 'fish', 'patterns']",curtain,shower curtain,curtain,['shower'],"['with', 'fish', 'patterns']","['visual_pattern', 'with', 'part_or_object']",shower,with fish patterns,"['DT', 'NN']","['IN', 'NN', 'NNS']",['--'],"['visual_pattern', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,False,False,False,False,True,False,False,True,True,False,False,True
+4079,4366594,curtain_showercurtain_ambi_unspec_3397169.png,curtain,showercurtain,unsp,the shower curtain with a pattern,the shower curtain with a pattern,"[('the', 'DT'), ('shower', 'NN'), ('curtain', 'NN'), ('with', 'IN'), ('a', 'DT'), ('pattern', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN shower) (NN curtain))
+    (PP (IN with)
+      (NP (DT a) (NN pattern)))))","[(ROOT, 0, 3), (det, 3, 1), (compound, 3, 2), (case, 6, 4), (det, 6, 5), (nmod, 3, 6)]","['DT', 'NN', 'NN', 'IN', 'DT', 'NN']","['the', 'shower', 'curtain', 'with', 'a', 'pattern']",curtain,shower curtain,curtain,['shower'],"['with', 'a', 'pattern']","['visual_pattern', 'with', 'part_or_object']",shower,with a pattern,"['DT', 'NN']","['IN', 'DT', 'NN']",['--'],"['visual_pattern', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,False,False,False,False,True,False,False,True,True,False,False,True
+1049,3169918,man_batter_ambi_unspec_1712091.png,man,batter,unsp,the batter with the lighter colored bat,the batter with the lighter colored bat,"[('the', 'DT'), ('batter', 'NN'), ('with', 'IN'), ('the', 'DT'), ('lighter', 'JJR'), ('colored', 'JJ'), ('bat', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN batter))
+    (PP (IN with)
+      (NP (DT the)
+        (ADJP (JJR lighter) (JJ colored))
+        (NN bat)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 7, 3), (det, 7, 4), (amod, 7, 5), (amod, 7, 6), (nmod, 2, 7)]","['DT', 'NN', 'IN', 'DT', 'JJR', 'JJ', 'NN']","['the', 'batter', 'with', 'the', 'lighter', 'colored', 'bat']",batter,batter,batter,['--'],"['with', 'the', 'lighter', 'colored', 'bat']","['colour', 'colour', 'with', 'part_or_object']",--,with the lighter colored bat,['DT'],"['IN', 'DT', 'JJR', 'JJ', 'NN']",['--'],"['colour', 'colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2971,8340084,man_batter_ambi_unspec_1712091.png,man,batter,unsp,the player with tan bat,the player with tan bat,"[('the', 'DT'), ('player', 'NN'), ('with', 'IN'), ('tan', 'NN'), ('bat', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN player))
+    (PP (IN with)
+      (NP (NN tan) (NN bat)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (compound, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'NN', 'NN']","['the', 'player', 'with', 'tan', 'bat']",player,player,player,['--'],"['with', 'tan', 'bat']","['colour', 'with', 'part_or_object']",--,with tan bat,['DT'],"['IN', 'NN', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2396,8146096,man_batter_ambi_unspec_1712091.png,man,batter,unsp,the batter with a light bat,the batter with a light bat,"[('the', 'DT'), ('batter', 'NN'), ('with', 'IN'), ('a', 'DT'), ('light', 'NN'), ('bat', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN batter))
+    (PP (IN with)
+      (NP (DT a) (NN light) (NN bat)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (compound, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'NN', 'NN']","['the', 'batter', 'with', 'a', 'light', 'bat']",batter,batter,batter,['--'],"['with', 'a', 'light', 'bat']","['colour', 'with', 'part_or_object']",--,with a light bat,['DT'],"['IN', 'DT', 'NN', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+728,5857026,man_batter_ambi_unspec_1712091.png,man,batter,unsp,the player with blue heir,the player with blue har,"[('the', 'DT'), ('player', 'NN'), ('with', 'IN'), ('blue', 'JJ'), ('heir', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN player))
+    (PP (IN with)
+      (NP (JJ blue) (NN heir)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'player', 'with', 'blue', 'heir']",player,player,player,['--'],"['with', 'blue', 'heir']","['colour', 'with', 'part_or_object']",--,with blue heir,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5905,4878369,man_batter_ambi_unspec_1712091.png,man,batter,unsp,the baseball play with the wooden bat,the baseball play with the wooden bat,"[('the', 'DT'), ('baseball', 'NN'), ('play', 'NN'), ('with', 'IN'), ('the', 'DT'), ('wooden', 'JJ'), ('bat', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN baseball) (NN play))
+    (PP (IN with)
+      (NP (DT the) (JJ wooden) (NN bat)))))","[(ROOT, 0, 3), (det, 3, 1), (compound, 3, 2), (case, 7, 4), (det, 7, 5), (amod, 7, 6), (nmod, 3, 7)]","['DT', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'baseball', 'play', 'with', 'the', 'wooden', 'bat']",play,baseball play,play,['baseball'],"['with', 'the', 'wooden', 'bat']","['material', 'with', 'part_or_object']",baseball,with the wooden bat,"['DT', 'NN']","['IN', 'DT', 'JJ', 'NN']",['--'],"['material', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+6430,4663449,man_batter_ambi_unspec_1712091.png,man,batter,unsp,the batter with the beige colored bat,the batter with the beige colored bat,"[('the', 'DT'), ('batter', 'NN'), ('with', 'IN'), ('the', 'DT'), ('beige', 'JJ'), ('colored', 'JJ'), ('bat', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN batter))
+    (PP (IN with)
+      (NP (DT the) (JJ beige) (JJ colored) (NN bat)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 7, 3), (det, 7, 4), (amod, 7, 5), (amod, 7, 6), (nmod, 2, 7)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN']","['the', 'batter', 'with', 'the', 'beige', 'colored', 'bat']",batter,batter,batter,['--'],"['with', 'the', 'beige', 'colored', 'bat']","['colour', 'colour', 'with', 'part_or_object']",--,with the beige colored bat,['DT'],"['IN', 'DT', 'JJ', 'JJ', 'NN']",['--'],"['colour', 'colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2210,5686043,man_batter_ambi_unspec_1712091.png,man,batter,unsp,the man with the wood bat,the man with the wood bat,"[('the', 'DT'), ('man', 'NN'), ('with', 'IN'), ('the', 'DT'), ('wood', 'NN'), ('bat', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN with)
+      (NP (DT the) (NN wood) (NN bat)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (compound, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'NN', 'NN']","['the', 'man', 'with', 'the', 'wood', 'bat']",man,man,man,['--'],"['with', 'the', 'wood', 'bat']","['material', 'with', 'part_or_object']",--,with the wood bat,['DT'],"['IN', 'DT', 'NN', 'NN']",['--'],"['material', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+1325,3839629,man_batter_ambi_unspec_1712091.png,man,batter,unsp,the baseball player with a brown wooden baseball bat,the baseball player with a brown wooden baseball bat,"[('the', 'DT'), ('baseball', 'NN'), ('player', 'NN'), ('with', 'IN'), ('a', 'DT'), ('brown', 'JJ'), ('wooden', 'JJ'), ('baseball', 'NN'), ('bat', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN baseball) (NN player))
+    (PP (IN with)
+      (NP (DT a) (JJ brown) (JJ wooden) (NN baseball) (NN bat)))))","[(ROOT, 0, 3), (det, 3, 1), (compound, 3, 2), (case, 9, 4), (det, 9, 5), (amod, 9, 6), (amod, 9, 7), (compound, 9, 8), (nmod, 3, 9)]","['DT', 'NN', 'NN', 'IN', 'DT', 'JJ', 'JJ', 'NN', 'NN']","['the', 'baseball', 'player', 'with', 'a', 'brown', 'wooden', 'baseball', 'bat']",player,baseball player,player,['baseball'],"['with', 'a', 'brown', 'wooden', 'baseball', 'bat']","['colour', 'material', 'with', 'part_or_object']",baseball,with a brown wooden baseball bat,"['DT', 'NN']","['IN', 'DT', 'JJ', 'JJ', 'NN', 'NN']",['--'],"['colour', 'material', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5559,5475717,man_batter_ambi_unspec_1712091.png,man,batter,unsp,the baseball player with a light brown wooden bat,the baseball player with a light brown wooden bat,"[('the', 'DT'), ('baseball', 'NN'), ('player', 'NN'), ('with', 'IN'), ('a', 'DT'), ('light', 'NN'), ('brown', 'JJ'), ('wooden', 'JJ'), ('bat', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN baseball) (NN player))
+    (PP (IN with)
+      (NP (DT a)
+        (ADJP (NN light) (JJ brown))
+        (JJ wooden) (NN bat)))))","[(ROOT, 0, 3), (det, 3, 1), (compound, 3, 2), (case, 9, 4), (det, 9, 5), (compound, 9, 6), (amod, 9, 7), (amod, 9, 8), (nmod, 3, 9)]","['DT', 'NN', 'NN', 'IN', 'DT', 'NN', 'JJ', 'JJ', 'NN']","['the', 'baseball', 'player', 'with', 'a', 'light', 'brown', 'wooden', 'bat']",player,baseball player,player,['baseball'],"['with', 'a', 'light', 'brown', 'wooden', 'bat']","['colour', 'colour', 'material', 'with', 'part_or_object']",baseball,with a light brown wooden bat,"['DT', 'NN']","['IN', 'DT', 'NN', 'JJ', 'JJ', 'NN']",['--'],"['colour', 'colour', 'material', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5966,4878369,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the skateboarder with a green shirt,the skateboarder with a green shirt,"[('the', 'DT'), ('skateboarder', 'NN'), ('with', 'IN'), ('a', 'DT'), ('green', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN skateboarder))
+    (PP (IN with)
+      (NP (DT a) (JJ green) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'skateboarder', 'with', 'a', 'green', 'shirt']",skateboarder,skateboarder,skateboarder,['--'],"['with', 'a', 'green', 'shirt']","['colour', 'with', 'part_or_object']",--,with a green shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4899,2952461,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the guy with blue sneakers,the guy with blue sneakers,"[('the', 'DT'), ('guy', 'NN'), ('with', 'IN'), ('blue', 'JJ'), ('sneakers', 'NNS')]","(ROOT
+  (NP
+    (NP (DT the) (NN guy))
+    (PP (IN with)
+      (NP (JJ blue) (NNS sneakers)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NNS']","['the', 'guy', 'with', 'blue', 'sneakers']",guy,guy,guy,['--'],"['with', 'blue', 'sneakers']","['colour', 'with', 'part_or_object']",--,with blue sneakers,['DT'],"['IN', 'JJ', 'NNS']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+3017,8340084,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the man with blue shirt,the man with blue shirt,"[('the', 'DT'), ('man', 'NN'), ('with', 'IN'), ('blue', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN with)
+      (NP (JJ blue) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'man', 'with', 'blue', 'shirt']",man,man,man,['--'],"['with', 'blue', 'shirt']","['colour', 'with', 'part_or_object']",--,with blue shirt,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4893,8886279,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the skateboarder with the blue shirt,the skateboarder with the blue shirt,"[('the', 'DT'), ('skateboarder', 'NN'), ('with', 'IN'), ('the', 'DT'), ('blue', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN skateboarder))
+    (PP (IN with)
+      (NP (DT the) (JJ blue) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'skateboarder', 'with', 'the', 'blue', 'shirt']",skateboarder,skateboarder,skateboarder,['--'],"['with', 'the', 'blue', 'shirt']","['colour', 'with', 'part_or_object']",--,with the blue shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+3850,9607271,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the skater with the blue shirt,the skater with the blue shirt ,"[('the', 'DT'), ('skater', 'NN'), ('with', 'IN'), ('the', 'DT'), ('blue', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN skater))
+    (PP (IN with)
+      (NP (DT the) (JJ blue) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'skater', 'with', 'the', 'blue', 'shirt']",skater,skater,skater,['--'],"['with', 'the', 'blue', 'shirt']","['colour', 'with', 'part_or_object']",--,with the blue shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+1307,3839629,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the skateboarder wearing a blue shirt and a belt,the skateboarder wearing a blue shirt and a belt,"[('the', 'DT'), ('skateboarder', 'NN'), ('wearing', 'VBG'), ('a', 'DT'), ('blue', 'JJ'), ('shirt', 'NN'), ('and', 'CC'), ('a', 'DT'), ('belt', 'NN')]","(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN skateboarder))
+      (VP (VBG wearing)
+        (NP
+          (NP (DT a) (JJ blue) (NN shirt))
+          (CC and)
+          (NP (DT a) (NN belt)))))))","[(ROOT, 0, 2), (det, 2, 1), (acl, 2, 3), (det, 6, 4), (amod, 6, 5), (obj, 3, 6), (cc, 9, 7), (det, 9, 8), (conj, 6, 9)]","['DT', 'NN', 'VBG', 'DT', 'JJ', 'NN', 'CC', 'DT', 'NN']","['the', 'skateboarder', 'wearing', 'a', 'blue', 'shirt', 'and', 'a', 'belt']",skateboarder,skateboarder,skateboarder,['--'],"['wearing', 'a', 'blue', 'shirt', 'and', 'a', 'belt']","['colour', 'action', 'part_or_object']",--,wearing a blue shirt and a belt,['DT'],"['VBG', 'DT', 'JJ', 'NN', 'CC', 'DT', 'NN']",['--'],"['colour', 'action', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,True,True,True,False,False,True
+2761,2949171,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the man with blue shirt,the man with blue shirt,"[('the', 'DT'), ('man', 'NN'), ('with', 'IN'), ('blue', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN with)
+      (NP (JJ blue) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'man', 'with', 'blue', 'shirt']",man,man,man,['--'],"['with', 'blue', 'shirt']","['colour', 'with', 'part_or_object']",--,with blue shirt,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+1873,9850829,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the the skater in a blue shirt,the the skater in a blue shirt,"[('the', 'DT'), ('the', 'DT'), ('skater', 'NN'), ('in', 'IN'), ('a', 'DT'), ('blue', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (X
+    (X (DT the))
+    (NP
+      (NP (DT the) (NN skater))
+      (PP (IN in)
+        (NP (DT a) (JJ blue) (NN shirt))))))","[(ROOT, 0, 3), (det, 3, 1), (det, 3, 2), (case, 7, 4), (det, 7, 5), (amod, 7, 6), (nmod, 3, 7)]","['DT', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'the', 'skater', 'in', 'a', 'blue', 'shirt']",skater,skater,skater,['the'],"['in', 'a', 'blue', 'shirt']","['colour', 'part_or_object']",the,in a blue shirt,"['DT', 'DT']","['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5353,8998977,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the skateboarder in the blue shirt,the skateboarder in the blue shirt,"[('the', 'DT'), ('skateboarder', 'NN'), ('in', 'IN'), ('the', 'DT'), ('blue', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN skateboarder))
+    (PP (IN in)
+      (NP (DT the) (JJ blue) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'skateboarder', 'in', 'the', 'blue', 'shirt']",skateboarder,skateboarder,skateboarder,['--'],"['in', 'the', 'blue', 'shirt']","['colour', 'part_or_object']",--,in the blue shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+6300,1820290,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the man in a blue shirt,the man in a blue shirt,"[('the', 'DT'), ('man', 'NN'), ('in', 'IN'), ('a', 'DT'), ('blue', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN in)
+      (NP (DT a) (JJ blue) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'man', 'in', 'a', 'blue', 'shirt']",man,man,man,['--'],"['in', 'a', 'blue', 'shirt']","['colour', 'part_or_object']",--,in a blue shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4665,8644237,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the skateboarder with a blue shirt,the skateboarder with a blue shirt,"[('the', 'DT'), ('skateboarder', 'NN'), ('with', 'IN'), ('a', 'DT'), ('blue', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN skateboarder))
+    (PP (IN with)
+      (NP (DT a) (JJ blue) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'skateboarder', 'with', 'a', 'blue', 'shirt']",skateboarder,skateboarder,skateboarder,['--'],"['with', 'a', 'blue', 'shirt']","['colour', 'with', 'part_or_object']",--,with a blue shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+467,3994550,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the skateboarder with blue shoes,the skateboarded with blue shoes,"[('the', 'DT'), ('skateboarder', 'NN'), ('with', 'IN'), ('blue', 'JJ'), ('shoes', 'NNS')]","(ROOT
+  (NP
+    (NP (DT the) (NN skateboarder))
+    (PP (IN with)
+      (NP (JJ blue) (NNS shoes)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NNS']","['the', 'skateboarder', 'with', 'blue', 'shoes']",skateboarder,skateboarder,skateboarder,['--'],"['with', 'blue', 'shoes']","['colour', 'with', 'part_or_object']",--,with blue shoes,['DT'],"['IN', 'JJ', 'NNS']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4549,8243240,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the skateboarder with blue shirt,the skateborder with  blue shirt,"[('the', 'DT'), ('skateboarder', 'NN'), ('with', 'IN'), ('blue', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN skateboarder))
+    (PP (IN with)
+      (NP (JJ blue) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'skateboarder', 'with', 'blue', 'shirt']",skateboarder,skateboarder,skateboarder,['--'],"['with', 'blue', 'shirt']","['colour', 'with', 'part_or_object']",--,with blue shirt,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+3386,2611325,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the skateboarder in the blue shirt,the skateboarder in the blue shirt,"[('the', 'DT'), ('skateboarder', 'NN'), ('in', 'IN'), ('the', 'DT'), ('blue', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN skateboarder))
+    (PP (IN in)
+      (NP (DT the) (JJ blue) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'skateboarder', 'in', 'the', 'blue', 'shirt']",skateboarder,skateboarder,skateboarder,['--'],"['in', 'the', 'blue', 'shirt']","['colour', 'part_or_object']",--,in the blue shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+3469,7064640,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the person about to skate down a ramp with blue shoes,the person about to skate down a ramp with blue shoes,"[('the', 'DT'), ('person', 'NN'), ('about', 'IN'), ('to', 'TO'), ('skate', 'VB'), ('down', 'RP'), ('a', 'DT'), ('ramp', 'NN'), ('with', 'IN'), ('blue', 'JJ'), ('shoes', 'NNS')]","(ROOT
+  (NP
+    (NP (DT the) (NN person))
+    (PP (IN about)
+      (S
+        (VP (TO to)
+          (VP (VB skate)
+            (PRT (RP down))
+            (NP
+              (NP (DT a) (NN ramp))
+              (PP (IN with)
+                (NP (JJ blue) (NNS shoes))))))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (mark, 5, 4), (acl, 2, 5), (compound:prt, 5, 6), (det, 8, 7), (obj, 5, 8), (case, 11, 9), (amod, 11, 10), (nmod, 8, 11)]","['DT', 'NN', 'IN', 'TO', 'VB', 'RP', 'DT', 'NN', 'IN', 'JJ', 'NNS']","['the', 'person', 'about', 'to', 'skate', 'down', 'a', 'ramp', 'with', 'blue', 'shoes']",person,person,person,['--'],"['about', 'to', 'skate', 'down', 'a', 'ramp', 'with', 'blue', 'shoes']","['colour', 'with', 'part_or_object']",--,about to skate down a ramp with blue shoes,['DT'],"['IN', 'TO', 'VB', 'RP', 'DT', 'NN', 'IN', 'JJ', 'NNS']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+1627,8041092,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the skater with blue T shirt,the skater with blue T shirt,"[('the', 'DT'), ('skater', 'NN'), ('with', 'IN'), ('blue', 'JJ'), ('t', 'NN'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN skater))
+    (PP (IN with)
+      (NP
+        (NML (JJ blue) (NN t))
+        (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (amod, 6, 4), (compound, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'JJ', 'NN', 'NN']","['the', 'skater', 'with', 'blue', 't', 'shirt']",skater,skater,skater,['--'],"['with', 'blue', 't', 'shirt']","['colour', 'with', 'part_or_object']",--,with blue t shirt,['DT'],"['IN', 'JJ', 'NN', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5746,9445150,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the skater with blue shoes,the skater with blue shoes,"[('the', 'DT'), ('skater', 'NN'), ('with', 'IN'), ('blue', 'JJ'), ('shoes', 'NNS')]","(ROOT
+  (NP
+    (NP (DT the) (NN skater))
+    (PP (IN with)
+      (NP (JJ blue) (NNS shoes)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NNS']","['the', 'skater', 'with', 'blue', 'shoes']",skater,skater,skater,['--'],"['with', 'blue', 'shoes']","['colour', 'with', 'part_or_object']",--,with blue shoes,['DT'],"['IN', 'JJ', 'NNS']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4062,4366594,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the skateboarder in the blue shirt,the skateboarder in the blue shirt,"[('the', 'DT'), ('skateboarder', 'NN'), ('in', 'IN'), ('the', 'DT'), ('blue', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN skateboarder))
+    (PP (IN in)
+      (NP (DT the) (JJ blue) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'skateboarder', 'in', 'the', 'blue', 'shirt']",skateboarder,skateboarder,skateboarder,['--'],"['in', 'the', 'blue', 'shirt']","['colour', 'part_or_object']",--,in the blue shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+3133,3233928,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the skater with blue shirt,the skater with blue shirt,"[('the', 'DT'), ('skater', 'NN'), ('with', 'IN'), ('blue', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN skater))
+    (PP (IN with)
+      (NP (JJ blue) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'skater', 'with', 'blue', 'shirt']",skater,skater,skater,['--'],"['with', 'blue', 'shirt']","['colour', 'with', 'part_or_object']",--,with blue shirt,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5600,5475717,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the skateboarder with blue sneakers,the skateboarder with blue sneakers,"[('the', 'DT'), ('skateboarder', 'NN'), ('with', 'IN'), ('blue', 'JJ'), ('sneakers', 'NNS')]","(ROOT
+  (NP
+    (NP (DT the) (NN skateboarder))
+    (PP (IN with)
+      (NP (JJ blue) (NNS sneakers)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NNS']","['the', 'skateboarder', 'with', 'blue', 'sneakers']",skateboarder,skateboarder,skateboarder,['--'],"['with', 'blue', 'sneakers']","['colour', 'with', 'part_or_object']",--,with blue sneakers,['DT'],"['IN', 'JJ', 'NNS']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5042,4715719,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the man in a blue shirt,the man in a blue shirt,"[('the', 'DT'), ('man', 'NN'), ('in', 'IN'), ('a', 'DT'), ('blue', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN in)
+      (NP (DT a) (JJ blue) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'man', 'in', 'a', 'blue', 'shirt']",man,man,man,['--'],"['in', 'a', 'blue', 'shirt']","['colour', 'part_or_object']",--,in a blue shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5684,1841079,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the boy in blue shirt,the boy in blue shirt,"[('the', 'DT'), ('boy', 'NN'), ('in', 'IN'), ('blue', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN boy))
+    (PP (IN in)
+      (NP (JJ blue) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'boy', 'in', 'blue', 'shirt']",boy,boy,boy,['--'],"['in', 'blue', 'shirt']","['colour', 'part_or_object']",--,in blue shirt,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+3626,4064012,man_skateboarder_ambi_unspec_2540094.png,man,skateboarder,unsp,the skater with a blue shirt,the skater with a blue shirt,"[('the', 'DT'), ('skater', 'NN'), ('with', 'IN'), ('a', 'DT'), ('blue', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN skater))
+    (PP (IN with)
+      (NP (DT a) (JJ blue) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'skater', 'with', 'a', 'blue', 'shirt']",skater,skater,skater,['--'],"['with', 'a', 'blue', 'shirt']","['colour', 'with', 'part_or_object']",--,with a blue shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+3505,7064640,man_tennisplayer_ambi_unspec_2623562.png,man,tennisplayer,unsp,the person with the racket lower than his knee,the person with the racket lower than his knee,"[('the', 'DT'), ('person', 'NN'), ('with', 'IN'), ('the', 'DT'), ('racket', 'NN'), ('lower', 'JJR'), ('than', 'IN'), ('his', 'PRP$'), ('knee', 'NN')]","(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN person))
+      (PP (IN with)
+        (NP (DT the) (NN racket))))
+    (ADJP
+      (ADJP (JJR lower))
+      (PP (IN than)
+        (NP (PRP$ his) (NN knee))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (det, 5, 4), (nmod, 2, 5), (amod, 2, 6), (case, 9, 7), (nmod:poss, 9, 8), (obl, 6, 9)]","['DT', 'NN', 'IN', 'DT', 'NN', 'JJR', 'IN', 'PRP$', 'NN']","['the', 'person', 'with', 'the', 'racket', 'lower', 'than', 'his', 'knee']",person,person,person,['--'],"['with', 'the', 'racket', 'lower', 'than', 'his', 'knee']","['size', 'with', 'part_or_object']",--,with the racket lower than his knee,['DT'],"['IN', 'DT', 'NN', 'JJR', 'IN', 'PRP$', 'NN']",['--'],"['size', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5716,9445150,man_tennisplayer_ambi_unspec_2623562.png,man,tennisplayer,unsp,the man with white hair,the man with white hair,"[('the', 'DT'), ('man', 'NN'), ('with', 'IN'), ('white', 'JJ'), ('hair', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN with)
+      (NP (JJ white) (NN hair)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'man', 'with', 'white', 'hair']",man,man,man,['--'],"['with', 'white', 'hair']","['colour', 'with', 'part_or_object']",--,with white hair,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5572,5475717,man_tennisplayer_ambi_unspec_2623562.png,man,tennisplayer,unsp,the tennis player with sandy blonde hair,the tennis player with sandy blonde hair,"[('the', 'DT'), ('tennis', 'NN'), ('player', 'NN'), ('with', 'IN'), ('sandy', 'JJ'), ('blonde', 'JJ'), ('hair', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN tennis) (NN player))
+    (PP (IN with)
+      (NP (JJ sandy) (JJ blonde) (NN hair)))))","[(ROOT, 0, 3), (det, 3, 1), (compound, 3, 2), (case, 7, 4), (amod, 7, 5), (amod, 7, 6), (nmod, 3, 7)]","['DT', 'NN', 'NN', 'IN', 'JJ', 'JJ', 'NN']","['the', 'tennis', 'player', 'with', 'sandy', 'blonde', 'hair']",player,tennis player,player,['tennis'],"['with', 'sandy', 'blonde', 'hair']","['colour', 'with', 'part_or_object']",tennis,with sandy blonde hair,"['DT', 'NN']","['IN', 'JJ', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+1937,9850829,man_tennisplayer_ambi_unspec_2623562.png,man,tennisplayer,unsp,the man in white with black collar,the man in white with black collar,"[('the', 'DT'), ('man', 'NN'), ('in', 'IN'), ('white', 'JJ'), ('with', 'IN'), ('black', 'JJ'), ('collar', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN in)
+      (NP
+        (NP (JJ white))
+        (PP (IN with)
+          (NP (JJ black) (NN collar)))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 4, 3), (nmod, 2, 4), (case, 7, 5), (amod, 7, 6), (nmod, 2, 7)]","['DT', 'NN', 'IN', 'JJ', 'IN', 'JJ', 'NN']","['the', 'man', 'in', 'white', 'with', 'black', 'collar']",man,man,man,['--'],"['in', 'white', 'with', 'black', 'collar']","['colour', 'colour', 'with', 'part_or_object']",--,in white with black collar,['DT'],"['IN', 'JJ', 'IN', 'JJ', 'NN']",['--'],"['colour', 'colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+3443,2611325,man_tennisplayer_ambi_unspec_2623562.png,man,tennisplayer,unsp,the tennis player with blond hair,the tennis player with blond hair,"[('the', 'DT'), ('tennis', 'NN'), ('player', 'NN'), ('with', 'IN'), ('blond', 'JJ'), ('hair', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN tennis) (NN player))
+    (PP (IN with)
+      (NP (JJ blond) (NN hair)))))","[(ROOT, 0, 3), (det, 3, 1), (compound, 3, 2), (case, 6, 4), (amod, 6, 5), (nmod, 3, 6)]","['DT', 'NN', 'NN', 'IN', 'JJ', 'NN']","['the', 'tennis', 'player', 'with', 'blond', 'hair']",player,tennis player,player,['tennis'],"['with', 'blond', 'hair']","['colour', 'with', 'part_or_object']",tennis,with blond hair,"['DT', 'NN']","['IN', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2443,8146096,man_tennisplayer_ambi_unspec_2623562.png,man,tennisplayer,unsp,the man with blond hair,the man with blond hair,"[('the', 'DT'), ('man', 'NN'), ('with', 'IN'), ('blond', 'JJ'), ('hair', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN with)
+      (NP (JJ blond) (NN hair)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'man', 'with', 'blond', 'hair']",man,man,man,['--'],"['with', 'blond', 'hair']","['colour', 'with', 'part_or_object']",--,with blond hair,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2744,2949171,man_tennisplayer_ambi_unspec_2623562.png,man,tennisplayer,unsp,the man with blonde hair,the man with blonde hair,"[('the', 'DT'), ('man', 'NN'), ('with', 'IN'), ('blonde', 'JJ'), ('hair', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN with)
+      (NP (JJ blonde) (NN hair)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'man', 'with', 'blonde', 'hair']",man,man,man,['--'],"['with', 'blonde', 'hair']","['colour', 'with', 'part_or_object']",--,with blonde hair,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5847,3031632,shirt_poloshirt_ambi_unspec_1170151.png,shirt,poloshirt,unsp,the black golf shirt with logo,the black golf shirt with logo,"[('the', 'DT'), ('black', 'JJ'), ('golf', 'NN'), ('shirt', 'NN'), ('with', 'IN'), ('logo', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (JJ black) (NN golf) (NN shirt))
+    (PP (IN with)
+      (NP (NN logo)))))","[(ROOT, 0, 4), (det, 4, 1), (amod, 4, 2), (compound, 4, 3), (case, 6, 5), (nmod, 4, 6)]","['DT', 'JJ', 'NN', 'NN', 'IN', 'NN']","['the', 'black', 'golf', 'shirt', 'with', 'logo']",shirt,golf shirt,shirt,"['black', 'golf']","['with', 'logo']","['colour', 'with', 'text', 'part_or_object']",black golf,with logo,"['DT', 'JJ', 'NN']","['IN', 'NN']",['colour'],"['with', 'text', 'part_or_object']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,True,False,False,False,True,False,False,True,True,True,False,False
+5545,5475717,shirt_poloshirt_ambi_unspec_1170151.png,shirt,poloshirt,unsp,the black polo with no logo,the black polo with no logo,"[('the', 'DT'), ('black', 'JJ'), ('polo', 'NN'), ('with', 'IN'), ('no', 'DT'), ('logo', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (JJ black) (NN polo))
+    (PP (IN with)
+      (NP (DT no) (NN logo)))))","[(ROOT, 0, 3), (det, 3, 1), (amod, 3, 2), (case, 6, 4), (det, 6, 5), (nmod, 3, 6)]","['DT', 'JJ', 'NN', 'IN', 'DT', 'NN']","['the', 'black', 'polo', 'with', 'no', 'logo']",polo,polo,polo,['black'],"['with', 'no', 'logo']","['colour', 'with', 'text', 'part_or_object']",black,with no logo,"['DT', 'JJ']","['IN', 'DT', 'NN']",['colour'],"['with', 'text', 'part_or_object']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,True,False,False,False,True,False,False,True,True,True,False,False
+4565,8243240,shirt_poloshirt_ambi_unspec_1170151.png,shirt,poloshirt,unsp,the the man with no logo,the the man with no logo,"[('the', 'DT'), ('the', 'DT'), ('man', 'NN'), ('with', 'IN'), ('no', 'DT'), ('logo', 'NN')]","(ROOT
+  (X
+    (X (DT the))
+    (NP
+      (NP (DT the) (NN man))
+      (PP (IN with)
+        (NP (DT no) (NN logo))))))","[(ROOT, 0, 3), (det, 3, 1), (det, 3, 2), (case, 6, 4), (det, 6, 5), (nmod, 3, 6)]","['DT', 'DT', 'NN', 'IN', 'DT', 'NN']","['the', 'the', 'man', 'with', 'no', 'logo']",man,man,man,['the'],"['with', 'no', 'logo']","['with', 'text', 'part_or_object']",the,with no logo,"['DT', 'DT']","['IN', 'DT', 'NN']",['--'],"['with', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2487,8605037,shirt_poloshirt_ambi_unspec_1170151.png,shirt,poloshirt,unsp,the black shirt with no logo,the black shirt with no logo,"[('the', 'DT'), ('black', 'JJ'), ('shirt', 'NN'), ('with', 'IN'), ('no', 'DT'), ('logo', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (JJ black) (NN shirt))
+    (PP (IN with)
+      (NP (DT no) (NN logo)))))","[(ROOT, 0, 3), (det, 3, 1), (amod, 3, 2), (case, 6, 4), (det, 6, 5), (nmod, 3, 6)]","['DT', 'JJ', 'NN', 'IN', 'DT', 'NN']","['the', 'black', 'shirt', 'with', 'no', 'logo']",shirt,shirt,shirt,['black'],"['with', 'no', 'logo']","['colour', 'with', 'text', 'part_or_object']",black,with no logo,"['DT', 'JJ']","['IN', 'DT', 'NN']",['colour'],"['with', 'text', 'part_or_object']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,True,False,False,False,True,False,False,True,True,True,False,False
+2193,5686043,shirt_poloshirt_ambi_unspec_1170151.png,shirt,poloshirt,unsp,the man with no logo on shirt,the man with no logo on shirt,"[('the', 'DT'), ('man', 'NN'), ('with', 'IN'), ('no', 'DT'), ('logo', 'NN'), ('on', 'IN'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN with)
+      (NP
+        (NP (DT no) (NN logo))
+        (PP (IN on)
+          (NP (NN shirt)))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (det, 5, 4), (nmod, 2, 5), (case, 7, 6), (nmod, 5, 7)]","['DT', 'NN', 'IN', 'DT', 'NN', 'IN', 'NN']","['the', 'man', 'with', 'no', 'logo', 'on', 'shirt']",man,man,man,['--'],"['with', 'no', 'logo', 'on', 'shirt']","['position', 'with', 'text', 'part_or_object']",--,with no logo on shirt,['DT'],"['IN', 'DT', 'NN', 'IN', 'NN']",['--'],"['position', 'with', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+5400,9819174,shirt_poloshirt_ambi_unspec_1170151.png,shirt,poloshirt,unsp,the black shirt no logo,the black shirt no logo,"[('the', 'DT'), ('black', 'JJ'), ('shirt', 'NN'), ('no', 'DT'), ('logo', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (JJ black) (NN shirt))
+    (NP (DT no) (NN logo))))","[(ROOT, 0, 3), (det, 3, 1), (amod, 3, 2), (det, 5, 4), (dep, 3, 5)]","['DT', 'JJ', 'NN', 'DT', 'NN']","['the', 'black', 'shirt', 'no', 'logo']",shirt,shirt,shirt,['black'],"['no', 'logo']","['colour', 'text', 'part_or_object']",black,no logo,"['DT', 'JJ']","['DT', 'NN']",['colour'],"['text', 'part_or_object']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,True,False,False,False,True,False,False,True,True,True,False,False
+479,3994550,shirt_poloshirt_ambi_unspec_1170151.png,shirt,poloshirt,unsp,the shirt with no logo,the shirt with no logo,"[('the', 'DT'), ('shirt', 'NN'), ('with', 'IN'), ('no', 'DT'), ('logo', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN shirt))
+    (PP (IN with)
+      (NP (DT no) (NN logo)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (det, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'DT', 'NN']","['the', 'shirt', 'with', 'no', 'logo']",shirt,shirt,shirt,['--'],"['with', 'no', 'logo']","['with', 'text', 'part_or_object']",--,with no logo,['DT'],"['IN', 'DT', 'NN']",['--'],"['with', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+57,3319139,shirt_poloshirt_ambi_unspec_1170151.png,shirt,poloshirt,unsp,the shirt without a logo,the shirt without a logo,"[('the', 'DT'), ('shirt', 'NN'), ('without', 'IN'), ('a', 'DT'), ('logo', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN shirt))
+    (PP (IN without)
+      (NP (DT a) (NN logo)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (det, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'DT', 'NN']","['the', 'shirt', 'without', 'a', 'logo']",shirt,shirt,shirt,['--'],"['without', 'a', 'logo']","['with', 'text', 'part_or_object']",--,without a logo,['DT'],"['IN', 'DT', 'NN']",['--'],"['with', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4351,2208680,shirt_poloshirt_ambi_unspec_1170151.png,shirt,poloshirt,unsp,the plane black t shirt,the plane black t shirt,"[('the', 'DT'), ('plane', 'NN'), ('black', 'JJ'), ('t', 'NN'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN plane))
+    (NP (JJ black) (NN t) (NN shirt))))","[(ROOT, 0, 2), (det, 2, 1), (amod, 4, 3), (compound, 5, 4), (dep, 2, 5)]","['DT', 'NN', 'JJ', 'NN', 'NN']","['the', 'plane', 'black', 't', 'shirt']",plane,plane,plane,['--'],"['black', 't', 'shirt']","['colour', 'part_or_object']",--,black t shirt,['DT'],"['JJ', 'NN', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4276,7143428,shirt_poloshirt_ambi_unspec_1170151.png,shirt,poloshirt,unsp,the shirt with no logo on it,the shirt with no logo on it,"[('the', 'DT'), ('shirt', 'NN'), ('with', 'IN'), ('no', 'DT'), ('logo', 'NN'), ('on', 'IN'), ('it', 'PRP')]","(ROOT
+  (NP
+    (NP (DT the) (NN shirt))
+    (PP (IN with)
+      (NP
+        (NP (DT no) (NN logo))
+        (PP (IN on)
+          (NP (PRP it)))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (det, 5, 4), (nmod, 2, 5), (case, 7, 6), (nmod, 5, 7)]","['DT', 'NN', 'IN', 'DT', 'NN', 'IN', 'PRP']","['the', 'shirt', 'with', 'no', 'logo', 'on', 'it']",shirt,shirt,shirt,['--'],"['with', 'no', 'logo', 'on', 'it']","['position', 'with', 'text', 'part_or_object']",--,with no logo on it,['DT'],"['IN', 'DT', 'NN', 'IN', 'PRP']",['--'],"['position', 'with', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+2779,2949171,shirt_poloshirt_ambi_unspec_1170151.png,shirt,poloshirt,unsp,the man wearing black without logo eating hot dog,the man wearing black without logo eating hot dog,"[('the', 'DT'), ('man', 'NN'), ('wearing', 'VBG'), ('black', 'NN'), ('without', 'IN'), ('logo', 'NN'), ('eating', 'VBG'), ('hot', 'JJ'), ('dog', 'NN')]","(ROOT
+  (NP
+    (NP (DT the)
+      (ADJP (NN man) (VBG wearing))
+      (NN black))
+    (PP (IN without)
+      (NP
+        (NP (NN logo))
+        (VP (VBG eating)
+          (NP (JJ hot) (NN dog)))))))","[(ROOT, 0, 2), (det, 2, 1), (acl, 2, 3), (obj, 3, 4), (mark, 7, 5), (nsubj, 7, 6), (advcl, 3, 7), (amod, 9, 8), (obj, 7, 9)]","['DT', 'NN', 'VBG', 'NN', 'IN', 'NN', 'VBG', 'JJ', 'NN']","['the', 'man', 'wearing', 'black', 'without', 'logo', 'eating', 'hot', 'dog']",man,man,man,['--'],"['wearing', 'black', 'without', 'logo', 'eating', 'hot', 'dog']","['colour', 'action', 'with', 'text', 'part_or_object']",--,wearing black without logo eating hot dog,['DT'],"['VBG', 'NN', 'IN', 'NN', 'VBG', 'JJ', 'NN']",['--'],"['colour', 'action', 'with', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,True,True,True,False,False,True
+5628,1841079,shirt_poloshirt_ambi_unspec_1170151.png,shirt,poloshirt,unsp,the t shirt with no logo,the t shirt with no logo,"[('the', 'DT'), ('t', 'NN'), ('shirt', 'NN'), ('with', 'IN'), ('no', 'DT'), ('logo', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN t) (NN shirt))
+    (PP (IN with)
+      (NP (DT no) (NN logo)))))","[(ROOT, 0, 3), (det, 3, 1), (compound, 3, 2), (case, 6, 4), (det, 6, 5), (nmod, 3, 6)]","['DT', 'NN', 'NN', 'IN', 'DT', 'NN']","['the', 't', 'shirt', 'with', 'no', 'logo']",shirt,t shirt,shirt,['--'],"['with', 'no', 'logo']","['with', 'text', 'part_or_object']",--,with no logo,"['DT', 'NN']","['IN', 'DT', 'NN']",['--'],"['with', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+3097,3233928,shirt_poloshirt_ambi_unspec_1170151.png,shirt,poloshirt,unsp,the t shirt without logo,the t-shirt without logo,"[('the', 'DT'), ('t', 'NN'), ('shirt', 'NN'), ('without', 'IN'), ('logo', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN t) (NN shirt))
+    (PP (IN without)
+      (NP (NN logo)))))","[(ROOT, 0, 3), (det, 3, 1), (compound, 3, 2), (case, 5, 4), (nmod, 3, 5)]","['DT', 'NN', 'NN', 'IN', 'NN']","['the', 't', 'shirt', 'without', 'logo']",shirt,t shirt,shirt,['--'],"['without', 'logo']","['with', 'text', 'part_or_object']",--,without logo,"['DT', 'NN']","['IN', 'NN']",['--'],"['with', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+6690,2651565,shirt_poloshirt_ambi_unspec_1170151.png,shirt,poloshirt,unsp,the man with white hair,the man with white hair,"[('the', 'DT'), ('man', 'NN'), ('with', 'IN'), ('white', 'JJ'), ('hair', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN with)
+      (NP (JJ white) (NN hair)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'man', 'with', 'white', 'hair']",man,man,man,['--'],"['with', 'white', 'hair']","['colour', 'with', 'part_or_object']",--,with white hair,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+3597,9284775,shirt_poloshirt_ambi_unspec_1170151.png,shirt,poloshirt,unsp,the shirt with no logo,the shirt with no logo,"[('the', 'DT'), ('shirt', 'NN'), ('with', 'IN'), ('no', 'DT'), ('logo', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN shirt))
+    (PP (IN with)
+      (NP (DT no) (NN logo)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (det, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'DT', 'NN']","['the', 'shirt', 'with', 'no', 'logo']",shirt,shirt,shirt,['--'],"['with', 'no', 'logo']","['with', 'text', 'part_or_object']",--,with no logo,['DT'],"['IN', 'DT', 'NN']",['--'],"['with', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+6764,1504427,shirt_poloshirt_ambi_unspec_1170151.png,shirt,poloshirt,unsp,the man with black shirt and no logo,the man with black shirt and no logo,"[('the', 'DT'), ('man', 'NN'), ('with', 'IN'), ('black', 'JJ'), ('shirt', 'NN'), ('and', 'CC'), ('no', 'DT'), ('logo', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN with)
+      (NP
+        (NP (JJ black) (NN shirt))
+        (CC and)
+        (NP (DT no) (NN logo))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5), (cc, 8, 6), (det, 8, 7), (conj, 2, 8)]","['DT', 'NN', 'IN', 'JJ', 'NN', 'CC', 'DT', 'NN']","['the', 'man', 'with', 'black', 'shirt', 'and', 'no', 'logo']",man,man,man,['--'],"['with', 'black', 'shirt', 'and', 'no', 'logo']","['colour', 'with', 'text', 'part_or_object']",--,with black shirt and no logo,['DT'],"['IN', 'JJ', 'NN', 'CC', 'DT', 'NN']",['--'],"['colour', 'with', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5775,5972498,shirt_poloshirt_ambi_unspec_1170151.png,shirt,poloshirt,unsp,the guy with the blackshirt with No logo,the guy with the blackshirt with No logo,"[('the', 'DT'), ('guy', 'NN'), ('with', 'IN'), ('the', 'DT'), ('blackshirt', 'NN'), ('with', 'IN'), ('no', 'DT'), ('logo', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN guy))
+    (PP (IN with)
+      (NP
+        (NP (DT the) (NN blackshirt))
+        (PP (IN with)
+          (NP (DT no) (NN logo)))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (det, 5, 4), (nmod, 2, 5), (case, 8, 6), (det, 8, 7), (nmod, 2, 8)]","['DT', 'NN', 'IN', 'DT', 'NN', 'IN', 'DT', 'NN']","['the', 'guy', 'with', 'the', 'blackshirt', 'with', 'no', 'logo']",guy,guy,guy,['--'],"['with', 'the', 'blackshirt', 'with', 'no', 'logo']","['with', 'with', 'text', 'part_or_object']",--,with the blackshirt with no logo,['DT'],"['IN', 'DT', 'NN', 'IN', 'DT', 'NN']",['--'],"['with', 'with', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+1934,9850829,shirt_poloshirt_ambi_unspec_1170151.png,shirt,poloshirt,unsp,the man with food that is higher,the man with food that is higher,"[('the', 'DT'), ('man', 'NN'), ('with', 'IN'), ('food', 'NN'), ('that', 'WDT'), ('is', 'VBZ'), ('higher', 'JJR')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN with)
+      (NP
+        (NP (NN food))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ is)
+              (ADJP (JJR higher)))))))))","[(ROOT, 0, 7), (det, 2, 1), (nsubj, 7, 2), (case, 4, 3), (nmod, 2, 4), (nsubj, 7, 5), (cop, 7, 6)]","['DT', 'NN', 'IN', 'NN', 'WDT', 'VBZ', 'JJR']","['the', 'man', 'with', 'food', 'that', 'is', 'higher']",man,,man,['--'],"['with', 'food', 'that', 'is', 'higher']","['size', 'state_verb', 'with', 'part_or_object']",--,with food that is higher,['DT'],"['IN', 'NN', 'WDT', 'VBZ', 'JJR']",['--'],"['size', 'state_verb', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,False,False,False,False,True,False,True,True,True,False,False,True
+4833,8886279,shirt_poloshirt_ambi_unspec_1170151.png,shirt,poloshirt,unsp,the black shirt with no logo,the black shirt with no logo,"[('the', 'DT'), ('black', 'JJ'), ('shirt', 'NN'), ('with', 'IN'), ('no', 'DT'), ('logo', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (JJ black) (NN shirt))
+    (PP (IN with)
+      (NP (DT no) (NN logo)))))","[(ROOT, 0, 3), (det, 3, 1), (amod, 3, 2), (case, 6, 4), (det, 6, 5), (nmod, 3, 6)]","['DT', 'JJ', 'NN', 'IN', 'DT', 'NN']","['the', 'black', 'shirt', 'with', 'no', 'logo']",shirt,shirt,shirt,['black'],"['with', 'no', 'logo']","['colour', 'with', 'text', 'part_or_object']",black,with no logo,"['DT', 'JJ']","['IN', 'DT', 'NN']",['colour'],"['with', 'text', 'part_or_object']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,True,False,False,False,True,False,False,True,True,True,False,False
+5570,5475717,shirt_tshirt_ambi_unspec_2317329.png,shirt,tshirt,unsp,the man in the white shirt,the man in the white shirt,"[('the', 'DT'), ('man', 'NN'), ('in', 'IN'), ('the', 'DT'), ('white', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN in)
+      (NP (DT the) (JJ white) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'man', 'in', 'the', 'white', 'shirt']",man,man,man,['--'],"['in', 'the', 'white', 'shirt']","['colour', 'part_or_object']",--,in the white shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+3406,2611325,shirt_tshirt_ambi_unspec_2317329.png,shirt,tshirt,unsp,the man in a white shirt,the man in a white shirt,"[('the', 'DT'), ('man', 'NN'), ('in', 'IN'), ('a', 'DT'), ('white', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN in)
+      (NP (DT a) (JJ white) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'man', 'in', 'a', 'white', 'shirt']",man,man,man,['--'],"['in', 'a', 'white', 'shirt']","['colour', 'part_or_object']",--,in a white shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+6471,4663449,shirt_tshirt_ambi_unspec_2317329.png,shirt,tshirt,unsp,the man in a white shirt,the man in a white shirt,"[('the', 'DT'), ('man', 'NN'), ('in', 'IN'), ('a', 'DT'), ('white', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN in)
+      (NP (DT a) (JJ white) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'man', 'in', 'a', 'white', 'shirt']",man,man,man,['--'],"['in', 'a', 'white', 'shirt']","['colour', 'part_or_object']",--,in a white shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+1019,3169918,shirt_tshirt_ambi_unspec_2317329.png,shirt,tshirt,unsp,the man with the white shirt,the man with the white shirt,"[('the', 'DT'), ('man', 'NN'), ('with', 'IN'), ('the', 'DT'), ('white', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN with)
+      (NP (DT the) (JJ white) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'man', 'with', 'the', 'white', 'shirt']",man,man,man,['--'],"['with', 'the', 'white', 'shirt']","['colour', 'with', 'part_or_object']",--,with the white shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5376,8998977,shirt_tshirt_ambi_unspec_2317329.png,shirt,tshirt,unsp,the man in the white shirt,the man in the white shirt,"[('the', 'DT'), ('man', 'NN'), ('in', 'IN'), ('the', 'DT'), ('white', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN in)
+      (NP (DT the) (JJ white) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'man', 'in', 'the', 'white', 'shirt']",man,man,man,['--'],"['in', 'the', 'white', 'shirt']","['colour', 'part_or_object']",--,in the white shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2798,2949171,shirt_tshirt_ambi_unspec_2317329.png,shirt,tshirt,unsp,the man wearing white shirt,the man wearing white shirt,"[('the', 'DT'), ('man', 'NN'), ('wearing', 'VBG'), ('white', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP (DT the)
+    (ADJP (NN man) (VBG wearing))
+    (NML (JJ white) (NN shirt))))","[(ROOT, 0, 2), (det, 2, 1), (acl, 2, 3), (amod, 5, 4), (obj, 3, 5)]","['DT', 'NN', 'VBG', 'JJ', 'NN']","['the', 'man', 'wearing', 'white', 'shirt']",man,man,man,['--'],"['wearing', 'white', 'shirt']","['colour', 'action', 'part_or_object']",--,wearing white shirt,['DT'],"['VBG', 'JJ', 'NN']",['--'],"['colour', 'action', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,True,True,True,False,False,True
+1886,9850829,shirt_tshirt_ambi_unspec_2317329.png,shirt,tshirt,unsp,the man with white shirt,the man with white shirt,"[('the', 'DT'), ('man', 'NN'), ('with', 'IN'), ('white', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN with)
+      (NP (JJ white) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'man', 'with', 'white', 'shirt']",man,man,man,['--'],"['with', 'white', 'shirt']","['colour', 'with', 'part_or_object']",--,with white shirt,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4745,3488102,shirt_tshirt_ambi_unspec_2317329.png,shirt,tshirt,unsp,the man with white top,the man with white top,"[('the', 'DT'), ('man', 'NN'), ('with', 'IN'), ('white', 'JJ'), ('top', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN man))
+    (PP (IN with)
+      (NP (JJ white) (NN top)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'man', 'with', 'white', 'top']",man,man,man,['--'],"['with', 'white', 'top']","['colour', 'position', 'with', 'part_or_object']",--,with white top,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'position', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+3464,7064640,shirt_tshirt_ambi_unspec_2317329.png,shirt,tshirt,unsp,the person with a white shirt,the person with a white shirt,"[('the', 'DT'), ('person', 'NN'), ('with', 'IN'), ('a', 'DT'), ('white', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN person))
+    (PP (IN with)
+      (NP (DT a) (JJ white) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'person', 'with', 'a', 'white', 'shirt']",person,person,person,['--'],"['with', 'a', 'white', 'shirt']","['colour', 'with', 'part_or_object']",--,with a white shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5598,5475717,table_desk_ambi_unspec_1024961.png,table,desk,unsp,the desk with the old computer monitor,the desk with the old computer monitor,"[('the', 'DT'), ('desk', 'NN'), ('with', 'IN'), ('the', 'DT'), ('old', 'JJ'), ('computer', 'NN'), ('monitor', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN desk))
+    (PP (IN with)
+      (NP (DT the) (JJ old) (NN computer) (NN monitor)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 7, 3), (det, 7, 4), (amod, 7, 5), (compound, 7, 6), (nmod, 2, 7)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN']","['the', 'desk', 'with', 'the', 'old', 'computer', 'monitor']",desk,desk,desk,['--'],"['with', 'the', 'old', 'computer', 'monitor']","['age', 'with', 'part_or_object']",--,with the old computer monitor,['DT'],"['IN', 'DT', 'JJ', 'NN', 'NN']",['--'],"['age', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+6727,1504427,table_diningtable_ambi_unspec_1036143.png,table,diningtable,unsp,the table with green candles,the table with green candles,"[('the', 'DT'), ('table', 'NN'), ('with', 'IN'), ('green', 'JJ'), ('candles', 'NNS')]","(ROOT
+  (NP
+    (NP (DT the) (NN table))
+    (PP (IN with)
+      (NP (JJ green) (NNS candles)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NNS']","['the', 'table', 'with', 'green', 'candles']",table,table,table,['--'],"['with', 'green', 'candles']","['colour', 'with', 'part_or_object']",--,with green candles,['DT'],"['IN', 'JJ', 'NNS']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5151,5264234,table_diningtable_ambi_unspec_1036143.png,table,diningtable,unsp,the dining table with green chairs,the dining table with green chairs,"[('the', 'DT'), ('dining', 'NN'), ('table', 'NN'), ('with', 'IN'), ('green', 'JJ'), ('chairs', 'NNS')]","(ROOT
+  (NP
+    (NP (DT the) (NN dining) (NN table))
+    (PP (IN with)
+      (NP (JJ green) (NNS chairs)))))","[(ROOT, 0, 3), (det, 3, 1), (compound, 3, 2), (case, 6, 4), (amod, 6, 5), (nmod, 3, 6)]","['DT', 'NN', 'NN', 'IN', 'JJ', 'NNS']","['the', 'dining', 'table', 'with', 'green', 'chairs']",table,dining table,table,['dining'],"['with', 'green', 'chairs']","['colour', 'with', 'part_or_object']",dining,with green chairs,"['DT', 'NN']","['IN', 'JJ', 'NNS']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5111,4715719,table_diningtable_ambi_unspec_1036143.png,table,diningtable,unsp,the table with wheat near it,the table with wheat near it,"[('the', 'DT'), ('table', 'NN'), ('with', 'IN'), ('wheat', 'NN'), ('near', 'IN'), ('it', 'PRP')]","(ROOT
+  (NP
+    (NP (DT the) (NN table))
+    (PP (IN with)
+      (NP
+        (NP (NN wheat))
+        (PP (IN near)
+          (NP (PRP it)))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 4, 3), (nmod, 2, 4), (case, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'NN', 'IN', 'PRP']","['the', 'table', 'with', 'wheat', 'near', 'it']",table,table,table,['--'],"['with', 'wheat', 'near', 'it']","['colour', 'position', 'with', 'part_or_object']",--,with wheat near it,['DT'],"['IN', 'NN', 'IN', 'PRP']",['--'],"['colour', 'position', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+2794,2949171,table_diningtable_ambi_unspec_1036143.png,table,diningtable,unsp,the bigger long table with white runner on it,the bigger long table with white runner on it,"[('the', 'DT'), ('bigger', 'JJR'), ('long', 'JJ'), ('table', 'NN'), ('with', 'IN'), ('white', 'JJ'), ('runner', 'NN'), ('on', 'IN'), ('it', 'PRP')]","(ROOT
+  (NP
+    (NP (DT the) (JJR bigger) (JJ long) (NN table))
+    (PP (IN with)
+      (NP
+        (NP (JJ white) (NN runner))
+        (PP (IN on)
+          (NP (PRP it)))))))","[(ROOT, 0, 4), (det, 4, 1), (amod, 4, 2), (amod, 4, 3), (case, 7, 5), (amod, 7, 6), (nmod, 4, 7), (case, 9, 8), (nmod, 7, 9)]","['DT', 'JJR', 'JJ', 'NN', 'IN', 'JJ', 'NN', 'IN', 'PRP']","['the', 'bigger', 'long', 'table', 'with', 'white', 'runner', 'on', 'it']",table,table,table,"['bigger', 'long']","['with', 'white', 'runner', 'on', 'it']","['size', 'size', 'colour', 'position', 'with', 'part_or_object']",bigger long,with white runner on it,"['DT', 'JJR', 'JJ']","['IN', 'JJ', 'NN', 'IN', 'PRP']","['size', 'size']","['colour', 'position', 'with', 'part_or_object']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,True,False,False,False,True,True,False,True,True,True,False,False
+1856,5045471,table_diningtable_ambi_unspec_1036143.png,table,diningtable,unsp,the table with white cloth,the table with white cloth,"[('the', 'DT'), ('table', 'NN'), ('with', 'IN'), ('white', 'JJ'), ('cloth', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN table))
+    (PP (IN with)
+      (NP (JJ white) (NN cloth)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'table', 'with', 'white', 'cloth']",table,table,table,['--'],"['with', 'white', 'cloth']","['colour', 'with', 'part_or_object']",--,with white cloth,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5044,4715719,train_locomotive_ambi_unspec_3176539.png,train,locomotive,unsp,the the train with a red round capped cylinder,the the train with a red round capped cylinder,"[('the', 'DT'), ('the', 'DT'), ('train', 'NN'), ('with', 'IN'), ('a', 'DT'), ('red', 'JJ'), ('round', 'NN'), ('capped', 'VBN'), ('cylinder', 'NN')]","(ROOT
+  (NP (DT the)
+    (ADJP
+      (NP
+        (NP (DT the) (NN train))
+        (PP (IN with)
+          (NP (DT a) (JJ red) (NN round))))
+      (VBN capped))
+    (NN cylinder)))","[(ROOT, 0, 3), (det, 3, 1), (det, 3, 2), (case, 9, 4), (det, 9, 5), (amod, 7, 6), (dep, 8, 7), (amod, 9, 8), (nmod, 3, 9)]","['DT', 'DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'VBN', 'NN']","['the', 'the', 'train', 'with', 'a', 'red', 'round', 'capped', 'cylinder']",train,train,train,['the'],"['with', 'a', 'red', 'round', 'capped', 'cylinder']","['colour', 'shape', 'state_verb', 'with', 'part_or_object']",the,with a red round capped cylinder,"['DT', 'DT']","['IN', 'DT', 'JJ', 'NN', 'VBN', 'NN']",['--'],"['colour', 'shape', 'state_verb', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,False,False,False,False,True,False,True,True,True,False,False,True
+1297,3839629,train_locomotive_ambi_unspec_3176539.png,train,locomotive,unsp,the train with a circular window on the front,the train with a circular window on the front,"[('the', 'DT'), ('train', 'NN'), ('with', 'IN'), ('a', 'DT'), ('circular', 'JJ'), ('window', 'NN'), ('on', 'IN'), ('the', 'DT'), ('front', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN train))
+    (PP (IN with)
+      (NP
+        (NP (DT a) (JJ circular) (NN window))
+        (PP (IN on)
+          (NP (DT the) (NN front)))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6), (case, 9, 7), (det, 9, 8), (nmod, 6, 9)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN']","['the', 'train', 'with', 'a', 'circular', 'window', 'on', 'the', 'front']",train,train,train,['--'],"['with', 'a', 'circular', 'window', 'on', 'the', 'front']","['shape', 'position', 'position', 'with', 'part_or_object']",--,with a circular window on the front,['DT'],"['IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN']",['--'],"['shape', 'position', 'position', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+468,3994550,train_locomotive_ambi_unspec_3176539.png,train,locomotive,unsp,the the train next to the white fence,the the train next to the white fence,"[('the', 'DT'), ('the', 'DT'), ('train', 'NN'), ('next', 'RB'), ('to', 'IN'), ('the', 'DT'), ('white', 'JJ'), ('fence', 'NN')]","(ROOT
+  (X
+    (X (DT the))
+    (NP
+      (NP (DT the) (NN train))
+      (ADVP (RB next)
+        (PP (IN to)
+          (NP (DT the) (JJ white) (NN fence)))))))","[(ROOT, 0, 3), (det, 3, 1), (det, 3, 2), (advmod, 3, 4), (case, 8, 5), (det, 8, 6), (amod, 8, 7), (obl, 4, 8)]","['DT', 'DT', 'NN', 'RB', 'IN', 'DT', 'JJ', 'NN']","['the', 'the', 'train', 'next', 'to', 'the', 'white', 'fence']",train,train,train,['the'],"['next', 'to', 'the', 'white', 'fence']","['position', 'colour', 'part_or_object']",the,next to the white fence,"['DT', 'DT']","['RB', 'IN', 'DT', 'JJ', 'NN']",['--'],"['position', 'colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+2047,6009880,train_locomotive_ambi_unspec_3176539.png,train,locomotive,unsp,the train with round window,the train with round window,"[('the', 'DT'), ('train', 'NN'), ('with', 'IN'), ('round', 'JJ'), ('window', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN train))
+    (PP (IN with)
+      (NP (JJ round) (NN window)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'train', 'with', 'round', 'window']",train,train,train,['--'],"['with', 'round', 'window']","['shape', 'with', 'part_or_object']",--,with round window,['DT'],"['IN', 'JJ', 'NN']",['--'],"['shape', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+22,3319139,train_locomotive_ambi_unspec_3176539.png,train,locomotive,unsp,the train with the bigger bumper guard,the train with the bigger bumper guard,"[('the', 'DT'), ('train', 'NN'), ('with', 'IN'), ('the', 'DT'), ('bigger', 'JJR'), ('bumper', 'NN'), ('guard', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN train))
+    (PP (IN with)
+      (NP (DT the) (JJR bigger) (NN bumper) (NN guard)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 7, 3), (det, 7, 4), (amod, 7, 5), (compound, 7, 6), (nmod, 2, 7)]","['DT', 'NN', 'IN', 'DT', 'JJR', 'NN', 'NN']","['the', 'train', 'with', 'the', 'bigger', 'bumper', 'guard']",train,train,train,['--'],"['with', 'the', 'bigger', 'bumper', 'guard']","['size', 'with', 'part_or_object']",--,with the bigger bumper guard,['DT'],"['IN', 'DT', 'JJR', 'NN', 'NN']",['--'],"['size', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2407,8146096,train_locomotive_ambi_unspec_3176539.png,train,locomotive,unsp,the train with a circular window,the train with a circular window,"[('the', 'DT'), ('train', 'NN'), ('with', 'IN'), ('a', 'DT'), ('circular', 'JJ'), ('window', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN train))
+    (PP (IN with)
+      (NP (DT a) (JJ circular) (NN window)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'train', 'with', 'a', 'circular', 'window']",train,train,train,['--'],"['with', 'a', 'circular', 'window']","['shape', 'with', 'part_or_object']",--,with a circular window,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['shape', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+6292,1820290,train_locomotive_ambi_unspec_3176539.png,train,locomotive,unsp,the large train with circle window,the large train with circle window,"[('the', 'DT'), ('large', 'JJ'), ('train', 'NN'), ('with', 'IN'), ('circle', 'NN'), ('window', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (JJ large) (NN train))
+    (PP (IN with)
+      (NP (NN circle) (NN window)))))","[(ROOT, 0, 3), (det, 3, 1), (amod, 3, 2), (case, 6, 4), (compound, 6, 5), (nmod, 3, 6)]","['DT', 'JJ', 'NN', 'IN', 'NN', 'NN']","['the', 'large', 'train', 'with', 'circle', 'window']",train,train,train,['large'],"['with', 'circle', 'window']","['size', 'shape', 'with', 'part_or_object']",large,with circle window,"['DT', 'JJ']","['IN', 'NN', 'NN']",['size'],"['shape', 'with', 'part_or_object']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,True,False,False,False,True,False,False,True,True,True,False,False
+4290,7143428,train_locomotive_ambi_unspec_3176539.png,train,locomotive,unsp,the train with the round window,thetrain wiht the round window,"[('the', 'DT'), ('train', 'NN'), ('with', 'IN'), ('the', 'DT'), ('round', 'JJ'), ('window', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN train))
+    (PP (IN with)
+      (NP (DT the) (JJ round) (NN window)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'train', 'with', 'the', 'round', 'window']",train,train,train,['--'],"['with', 'the', 'round', 'window']","['shape', 'with', 'part_or_object']",--,with the round window,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['shape', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2681,4868622,train_locomotive_ambi_unspec_3176539.png,train,locomotive,unsp,the train with the circle window,the train with the circle window,"[('the', 'DT'), ('train', 'NN'), ('with', 'IN'), ('the', 'DT'), ('circle', 'NN'), ('window', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN train))
+    (PP (IN with)
+      (NP (DT the) (NN circle) (NN window)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (compound, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'NN', 'NN']","['the', 'train', 'with', 'the', 'circle', 'window']",train,train,train,['--'],"['with', 'the', 'circle', 'window']","['shape', 'with', 'part_or_object']",--,with the circle window,['DT'],"['IN', 'DT', 'NN', 'NN']",['--'],"['shape', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2544,2846619,train_locomotive_ambi_unspec_3176539.png,train,locomotive,unsp,the train with no white on cars,the train with no white on cars,"[('the', 'DT'), ('train', 'NN'), ('with', 'IN'), ('no', 'DT'), ('white', 'JJ'), ('on', 'IN'), ('cars', 'NNS')]","(ROOT
+  (NP
+    (NP (DT the) (NN train))
+    (PP (IN with)
+      (NP
+        (NP (DT no) (JJ white))
+        (PP (IN on)
+          (NP (NNS cars)))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (det, 5, 4), (nmod, 2, 5), (case, 7, 6), (nmod, 5, 7)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'IN', 'NNS']","['the', 'train', 'with', 'no', 'white', 'on', 'cars']",train,train,train,['--'],"['with', 'no', 'white', 'on', 'cars']","['colour', 'position', 'with', 'part_or_object']",--,with no white on cars,['DT'],"['IN', 'DT', 'JJ', 'IN', 'NNS']",['--'],"['colour', 'position', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+1887,9850829,train_locomotive_ambi_unspec_3176539.png,train,locomotive,unsp,the train with bigger red front,the train with bigger red front,"[('the', 'DT'), ('train', 'NN'), ('with', 'IN'), ('bigger', 'JJR'), ('red', 'JJ'), ('front', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN train))
+    (PP (IN with)
+      (NP (JJR bigger) (JJ red) (NN front)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (amod, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'JJR', 'JJ', 'NN']","['the', 'train', 'with', 'bigger', 'red', 'front']",train,train,train,['--'],"['with', 'bigger', 'red', 'front']","['size', 'colour', 'position', 'with']",--,with bigger red front,['DT'],"['IN', 'JJR', 'JJ', 'NN']",['--'],"['size', 'colour', 'position', 'with']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+4911,2952461,train_locomotive_ambi_unspec_3176539.png,train,locomotive,unsp,the train with tallest red bumper,the train with tallest red bumper,"[('the', 'DT'), ('train', 'NN'), ('with', 'IN'), ('tallest', 'JJS'), ('red', 'JJ'), ('bumper', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN train))
+    (PP (IN with)
+      (NP
+        (NP (JJS tallest))
+        (NP (JJ red) (NN bumper))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (amod, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'JJS', 'JJ', 'NN']","['the', 'train', 'with', 'tallest', 'red', 'bumper']",train,train,train,['--'],"['with', 'tallest', 'red', 'bumper']","['size', 'colour', 'with', 'part_or_object']",--,with tallest red bumper,['DT'],"['IN', 'JJS', 'JJ', 'NN']",['--'],"['size', 'colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5594,5475717,train_locomotive_ambi_unspec_3176539.png,train,locomotive,unsp,the locomotive with a red lantern on the front,the locomotive with a red lantern on the front,"[('the', 'DT'), ('locomotive', 'NN'), ('with', 'IN'), ('a', 'DT'), ('red', 'JJ'), ('lantern', 'NN'), ('on', 'IN'), ('the', 'DT'), ('front', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN locomotive))
+    (PP (IN with)
+      (NP
+        (NP (DT a) (JJ red) (NN lantern))
+        (PP (IN on)
+          (NP (DT the) (NN front)))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6), (case, 9, 7), (det, 9, 8), (nmod, 6, 9)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN']","['the', 'locomotive', 'with', 'a', 'red', 'lantern', 'on', 'the', 'front']",locomotive,locomotive,locomotive,['--'],"['with', 'a', 'red', 'lantern', 'on', 'the', 'front']","['colour', 'position', 'position', 'with', 'part_or_object']",--,with a red lantern on the front,['DT'],"['IN', 'DT', 'JJ', 'NN', 'IN', 'DT', 'NN']",['--'],"['colour', 'position', 'position', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+6324,1820290,truck_pickuptruck_ambi_unspec_1105074.png,truck,pickuptruck,unsp,the black truck with red accents,the black truck with red accents,"[('the', 'DT'), ('black', 'JJ'), ('truck', 'NN'), ('with', 'IN'), ('red', 'JJ'), ('accents', 'NNS')]","(ROOT
+  (NP
+    (NP (DT the) (JJ black) (NN truck))
+    (PP (IN with)
+      (NP (JJ red) (NNS accents)))))","[(ROOT, 0, 3), (det, 3, 1), (amod, 3, 2), (case, 6, 4), (amod, 6, 5), (nmod, 3, 6)]","['DT', 'JJ', 'NN', 'IN', 'JJ', 'NNS']","['the', 'black', 'truck', 'with', 'red', 'accents']",truck,truck,truck,['black'],"['with', 'red', 'accents']","['colour', 'colour', 'with', 'part_or_object']",black,with red accents,"['DT', 'JJ']","['IN', 'JJ', 'NNS']",['colour'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,True,False,False,False,True,False,False,True,True,True,False,False
+6753,1504427,truck_pickuptruck_ambi_unspec_1105074.png,truck,pickuptruck,unsp,the black truck with motor atv on back,the black truck with motorztv on back,"[('the', 'DT'), ('black', 'JJ'), ('truck', 'NN'), ('with', 'IN'), ('motor', 'NN'), ('atv', 'NN'), ('on', 'IN'), ('back', 'RB')]","(ROOT
+  (NP
+    (NP (DT the) (JJ black) (NN truck))
+    (PP (IN with)
+      (NP
+        (NP (NN motor) (NN atv))
+        (PP (IN on)
+          (ADVP (RB back)))))))","[(ROOT, 0, 3), (det, 3, 1), (amod, 3, 2), (case, 6, 4), (compound, 6, 5), (nmod, 3, 6), (case, 8, 7), (advmod, 3, 8)]","['DT', 'JJ', 'NN', 'IN', 'NN', 'NN', 'IN', 'RB']","['the', 'black', 'truck', 'with', 'motor', 'atv', 'on', 'back']",truck,truck,truck,['black'],"['with', 'motor', 'atv', 'on', 'back']","['colour', 'position', 'position', 'with', 'text', 'part_or_object']",black,with motor atv on back,"['DT', 'JJ']","['IN', 'NN', 'NN', 'IN', 'RB']",['colour'],"['position', 'position', 'with', 'text', 'part_or_object']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,True,False,False,False,True,True,False,True,True,True,False,False
+4848,8886279,truck_pickuptruck_ambi_unspec_1105074.png,truck,pickuptruck,unsp,the black pickup with red letters,the black pickup with red letters,"[('the', 'DT'), ('black', 'JJ'), ('pickup', 'NN'), ('with', 'IN'), ('red', 'JJ'), ('letters', 'NNS')]","(ROOT
+  (NP
+    (NP (DT the) (JJ black) (NN pickup))
+    (PP (IN with)
+      (NP (JJ red) (NNS letters)))))","[(ROOT, 0, 3), (det, 3, 1), (amod, 3, 2), (case, 6, 4), (amod, 6, 5), (nmod, 3, 6)]","['DT', 'JJ', 'NN', 'IN', 'JJ', 'NNS']","['the', 'black', 'pickup', 'with', 'red', 'letters']",pickup,pickup,pickup,['black'],"['with', 'red', 'letters']","['colour', 'colour', 'with', 'part_or_object']",black,with red letters,"['DT', 'JJ']","['IN', 'JJ', 'NNS']",['colour'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,True,False,False,False,True,False,False,True,True,True,False,False
+3580,9284775,wine_bottle_ambi_unspec_2403668.png,wine,bottle,unsp,the bottle with white label,the bottle with white label,"[('the', 'DT'), ('bottle', 'NN'), ('with', 'IN'), ('white', 'JJ'), ('label', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN bottle))
+    (PP (IN with)
+      (NP (JJ white) (NN label)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'bottle', 'with', 'white', 'label']",bottle,bottle,bottle,['--'],"['with', 'white', 'label']","['colour', 'with', 'part_or_object']",--,with white label,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+6425,4663449,wine_bottle_ambi_unspec_2403668.png,wine,bottle,unsp,the bottle with the dark label,the bottle with the dark label,"[('the', 'DT'), ('bottle', 'NN'), ('with', 'IN'), ('the', 'DT'), ('dark', 'JJ'), ('label', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN bottle))
+    (PP (IN with)
+      (NP (DT the) (JJ dark) (NN label)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'bottle', 'with', 'the', 'dark', 'label']",bottle,bottle,bottle,['--'],"['with', 'the', 'dark', 'label']","['colour', 'with', 'part_or_object']",--,with the dark label,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4926,2952461,wine_bottle_ambi_unspec_2403668.png,wine,bottle,unsp,the wine with a brown label,the wine with a brown label,"[('the', 'DT'), ('wine', 'NN'), ('with', 'IN'), ('a', 'DT'), ('brown', 'JJ'), ('label', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN wine))
+    (PP (IN with)
+      (NP (DT a) (JJ brown) (NN label)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'wine', 'with', 'a', 'brown', 'label']",wine,wine,wine,['--'],"['with', 'a', 'brown', 'label']","['colour', 'with', 'part_or_object']",--,with a brown label,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+3515,7064640,wine_bottle_ambi_unspec_2403668.png,wine,bottle,unsp,the wine bottle with a dark label,the wine bottle with a dark label,"[('the', 'DT'), ('wine', 'NN'), ('bottle', 'NN'), ('with', 'IN'), ('a', 'DT'), ('dark', 'JJ'), ('label', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN wine) (NN bottle))
+    (PP (IN with)
+      (NP (DT a) (JJ dark) (NN label)))))","[(ROOT, 0, 3), (det, 3, 1), (compound, 3, 2), (case, 7, 4), (det, 7, 5), (amod, 7, 6), (nmod, 3, 7)]","['DT', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'wine', 'bottle', 'with', 'a', 'dark', 'label']",bottle,wine bottle,bottle,['wine'],"['with', 'a', 'dark', 'label']","['colour', 'with', 'part_or_object']",wine,with a dark label,"['DT', 'NN']","['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4583,8243240,wine_bottle_ambi_unspec_2403668.png,wine,bottle,unsp,the bottle with a grey label,the bottle with a grey label,"[('the', 'DT'), ('bottle', 'NN'), ('with', 'IN'), ('a', 'DT'), ('grey', 'JJ'), ('label', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN bottle))
+    (PP (IN with)
+      (NP (DT a) (JJ grey) (NN label)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'bottle', 'with', 'a', 'grey', 'label']",bottle,bottle,bottle,['--'],"['with', 'a', 'grey', 'label']","['colour', 'with', 'part_or_object']",--,with a grey label,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+6759,1504427,wine_bottle_ambi_unspec_2403668.png,wine,bottle,unsp,the wine bottle with Nottola on label,the wine bottle with mottola on lable,"[('the', 'DT'), ('wine', 'NN'), ('bottle', 'NN'), ('with', 'IN'), ('nottola', 'NN'), ('on', 'IN'), ('label', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN wine) (NN bottle))
+    (PP (IN with)
+      (NP
+        (NP (NN nottola))
+        (PP (IN on)
+          (NP (NN label)))))))","[(ROOT, 0, 3), (det, 3, 1), (compound, 3, 2), (case, 5, 4), (nmod, 3, 5), (case, 7, 6), (nmod, 5, 7)]","['DT', 'NN', 'NN', 'IN', 'NN', 'IN', 'NN']","['the', 'wine', 'bottle', 'with', 'nottola', 'on', 'label']",bottle,wine bottle,bottle,['wine'],"['with', 'nottola', 'on', 'label']","['position', 'with', 'text', 'part_or_object']",wine,with nottola on label,"['DT', 'NN']","['IN', 'NN', 'IN', 'NN']",['--'],"['position', 'with', 'text', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+1935,9850829,wine_bottle_ambi_unspec_2403668.png,wine,bottle,unsp,the bottle with bigger label,the bottle with bigger label,"[('the', 'DT'), ('bottle', 'NN'), ('with', 'IN'), ('bigger', 'JJR'), ('label', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN bottle))
+    (PP (IN with)
+      (NP (JJR bigger) (NN label)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJR', 'NN']","['the', 'bottle', 'with', 'bigger', 'label']",bottle,bottle,bottle,['--'],"['with', 'bigger', 'label']","['size', 'with', 'part_or_object']",--,with bigger label,['DT'],"['IN', 'JJR', 'NN']",['--'],"['size', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+1067,3169918,wine_bottle_ambi_unspec_2403668.png,wine,bottle,unsp,the bottle of wine with a darker label,the bottle of wine with a darker label,"[('the', 'DT'), ('bottle', 'NN'), ('of', 'IN'), ('wine', 'NN'), ('with', 'IN'), ('a', 'DT'), ('darker', 'JJR'), ('label', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN bottle))
+    (PP (IN of)
+      (NP
+        (NP (NN wine))
+        (PP (IN with)
+          (NP (DT a) (JJR darker) (NN label)))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 4, 3), (nmod, 2, 4), (case, 8, 5), (det, 8, 6), (amod, 8, 7), (nmod, 2, 8)]","['DT', 'NN', 'IN', 'NN', 'IN', 'DT', 'JJR', 'NN']","['the', 'bottle', 'of', 'wine', 'with', 'a', 'darker', 'label']",bottle,bottle,bottle,['--'],"['of', 'wine', 'with', 'a', 'darker', 'label']","['colour', 'with', 'part_or_object']",--,of wine with a darker label,['DT'],"['IN', 'NN', 'IN', 'DT', 'JJR', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5065,4715719,wine_bottle_ambi_unspec_2403668.png,wine,bottle,unsp,the bottle with a brown label,the bottle with a brown label,"[('the', 'DT'), ('bottle', 'NN'), ('with', 'IN'), ('a', 'DT'), ('brown', 'JJ'), ('label', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN bottle))
+    (PP (IN with)
+      (NP (DT a) (JJ brown) (NN label)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'bottle', 'with', 'a', 'brown', 'label']",bottle,bottle,bottle,['--'],"['with', 'a', 'brown', 'label']","['colour', 'with', 'part_or_object']",--,with a brown label,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+1359,3839629,wine_bottle_ambi_unspec_2403668.png,wine,bottle,unsp,the wine bottle with a white label,the wine bottle with a white label,"[('the', 'DT'), ('wine', 'NN'), ('bottle', 'NN'), ('with', 'IN'), ('a', 'DT'), ('white', 'JJ'), ('label', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN wine) (NN bottle))
+    (PP (IN with)
+      (NP (DT a) (JJ white) (NN label)))))","[(ROOT, 0, 3), (det, 3, 1), (compound, 3, 2), (case, 7, 4), (det, 7, 5), (amod, 7, 6), (nmod, 3, 7)]","['DT', 'NN', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'wine', 'bottle', 'with', 'a', 'white', 'label']",bottle,wine bottle,bottle,['wine'],"['with', 'a', 'white', 'label']","['colour', 'with', 'part_or_object']",wine,with a white label,"['DT', 'NN']","['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2384,8146096,wine_bottle_ambi_unspec_2403668.png,wine,bottle,unsp,the wine with a dark label,the wine with a dark label,"[('the', 'DT'), ('wine', 'NN'), ('with', 'IN'), ('a', 'DT'), ('dark', 'JJ'), ('label', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN wine))
+    (PP (IN with)
+      (NP (DT a) (JJ dark) (NN label)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'wine', 'with', 'a', 'dark', 'label']",wine,wine,wine,['--'],"['with', 'a', 'dark', 'label']","['colour', 'with', 'part_or_object']",--,with a dark label,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2775,2949171,wine_bottle_ambi_unspec_2403668.png,wine,bottle,unsp,the dark bottle with brown label,the dark bottle with brown label,"[('the', 'DT'), ('dark', 'JJ'), ('bottle', 'NN'), ('with', 'IN'), ('brown', 'JJ'), ('label', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (JJ dark) (NN bottle))
+    (PP (IN with)
+      (NP (JJ brown) (NN label)))))","[(ROOT, 0, 3), (det, 3, 1), (amod, 3, 2), (case, 6, 4), (amod, 6, 5), (nmod, 3, 6)]","['DT', 'JJ', 'NN', 'IN', 'JJ', 'NN']","['the', 'dark', 'bottle', 'with', 'brown', 'label']",bottle,bottle,bottle,['dark'],"['with', 'brown', 'label']","['colour', 'colour', 'with', 'part_or_object']",dark,with brown label,"['DT', 'JJ']","['IN', 'JJ', 'NN']",['colour'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,True,False,False,False,True,False,False,True,True,True,False,False
+3391,2611325,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the lady in the white shirt running,the lady in the white shirt running,"[('the', 'DT'), ('lady', 'NN'), ('in', 'IN'), ('the', 'DT'), ('white', 'JJ'), ('shirt', 'NN'), ('running', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN lady))
+    (PP (IN in)
+      (NP (DT the) (JJ white) (NN shirt) (NN running)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 7, 3), (det, 7, 4), (amod, 6, 5), (compound, 7, 6), (nmod, 2, 7)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'NN']","['the', 'lady', 'in', 'the', 'white', 'shirt', 'running']",lady,lady,lady,['--'],"['in', 'the', 'white', 'shirt', 'running']","['colour', 'part_or_object']",--,in the white shirt running,['DT'],"['IN', 'DT', 'JJ', 'NN', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2987,8340084,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the woman with white shirt,the woman with white shirt,"[('the', 'DT'), ('woman', 'NN'), ('with', 'IN'), ('white', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN woman))
+    (PP (IN with)
+      (NP (JJ white) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'woman', 'with', 'white', 'shirt']",woman,woman,woman,['--'],"['with', 'white', 'shirt']","['colour', 'with', 'part_or_object']",--,with white shirt,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4867,8886279,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the girl with the white hat,the girl with the white hat,"[('the', 'DT'), ('girl', 'NN'), ('with', 'IN'), ('the', 'DT'), ('white', 'JJ'), ('hat', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN girl))
+    (PP (IN with)
+      (NP (DT the) (JJ white) (NN hat)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'girl', 'with', 'the', 'white', 'hat']",girl,girl,girl,['--'],"['with', 'the', 'white', 'hat']","['colour', 'with', 'part_or_object']",--,with the white hat,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+3534,9284775,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the player in white hat,the player in white hat,"[('the', 'DT'), ('player', 'NN'), ('in', 'IN'), ('white', 'JJ'), ('hat', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN player))
+    (PP (IN in)
+      (NP (JJ white) (NN hat)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'player', 'in', 'white', 'hat']",player,player,player,['--'],"['in', 'white', 'hat']","['colour', 'part_or_object']",--,in white hat,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4546,8243240,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the woman with the white hat,the woman with the white hat,"[('the', 'DT'), ('woman', 'NN'), ('with', 'IN'), ('the', 'DT'), ('white', 'JJ'), ('hat', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN woman))
+    (PP (IN with)
+      (NP (DT the) (JJ white) (NN hat)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'woman', 'with', 'the', 'white', 'hat']",woman,woman,woman,['--'],"['with', 'the', 'white', 'hat']","['colour', 'with', 'part_or_object']",--,with the white hat,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+1651,8041092,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the chaser with white hat,the chaser with white hat,"[('the', 'DT'), ('chaser', 'NN'), ('with', 'IN'), ('white', 'JJ'), ('hat', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN chaser))
+    (PP (IN with)
+      (NP (JJ white) (NN hat)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'chaser', 'with', 'white', 'hat']",chaser,chaser,chaser,['--'],"['with', 'white', 'hat']","['colour', 'with', 'part_or_object']",--,with white hat,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5653,1841079,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the girl with a white hat,the girl with a white hat,"[('the', 'DT'), ('girl', 'NN'), ('with', 'IN'), ('a', 'DT'), ('white', 'JJ'), ('hat', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN girl))
+    (PP (IN with)
+      (NP (DT a) (JJ white) (NN hat)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'girl', 'with', 'a', 'white', 'hat']",girl,girl,girl,['--'],"['with', 'a', 'white', 'hat']","['colour', 'with', 'part_or_object']",--,with a white hat,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+6477,4663449,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the player with a white cap and black pants,the player with a white cap and black pants,"[('the', 'DT'), ('player', 'NN'), ('with', 'IN'), ('a', 'DT'), ('white', 'JJ'), ('cap', 'NN'), ('and', 'CC'), ('black', 'JJ'), ('pants', 'NNS')]","(ROOT
+  (NP
+    (NP (DT the) (NN player))
+    (PP (IN with)
+      (NP
+        (NP (DT a) (JJ white) (NN cap))
+        (CC and)
+        (NP (JJ black) (NNS pants))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6), (cc, 9, 7), (amod, 9, 8), (conj, 6, 9)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NNS']","['the', 'player', 'with', 'a', 'white', 'cap', 'and', 'black', 'pants']",player,player,player,['--'],"['with', 'a', 'white', 'cap', 'and', 'black', 'pants']","['colour', 'colour', 'with', 'part_or_object']",--,with a white cap and black pants,['DT'],"['IN', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NNS']",['--'],"['colour', 'colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4472,8598940,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the girl with the longest stretched leg,the girl with the longest stretched leg,"[('the', 'DT'), ('girl', 'NN'), ('with', 'IN'), ('the', 'DT'), ('longest', 'JJS'), ('stretched', 'JJ'), ('leg', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN girl))
+    (PP (IN with)
+      (NP (DT the) (JJS longest) (JJ stretched) (NN leg)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 7, 3), (det, 7, 4), (amod, 7, 5), (amod, 7, 6), (nmod, 2, 7)]","['DT', 'NN', 'IN', 'DT', 'JJS', 'JJ', 'NN']","['the', 'girl', 'with', 'the', 'longest', 'stretched', 'leg']",girl,girl,girl,['--'],"['with', 'the', 'longest', 'stretched', 'leg']","['size', 'with', 'part_or_object']",--,with the longest stretched leg,['DT'],"['IN', 'DT', 'JJS', 'JJ', 'NN']",['--'],"['size', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2440,8146096,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the girl with a white hat and black pants,the girl with a white hat and black pants,"[('the', 'DT'), ('girl', 'NN'), ('with', 'IN'), ('a', 'DT'), ('white', 'JJ'), ('hat', 'NN'), ('and', 'CC'), ('black', 'JJ'), ('pants', 'NNS')]","(ROOT
+  (NP
+    (NP (DT the) (NN girl))
+    (PP (IN with)
+      (NP
+        (NP (DT a) (JJ white) (NN hat))
+        (CC and)
+        (NP (JJ black) (NNS pants))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6), (cc, 9, 7), (amod, 9, 8), (conj, 6, 9)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NNS']","['the', 'girl', 'with', 'a', 'white', 'hat', 'and', 'black', 'pants']",girl,girl,girl,['--'],"['with', 'a', 'white', 'hat', 'and', 'black', 'pants']","['colour', 'colour', 'with', 'part_or_object']",--,with a white hat and black pants,['DT'],"['IN', 'DT', 'JJ', 'NN', 'CC', 'JJ', 'NNS']",['--'],"['colour', 'colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5139,5264234,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the girl in white cap,the girl in white cap,"[('the', 'DT'), ('girl', 'NN'), ('in', 'IN'), ('white', 'JJ'), ('cap', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN girl))
+    (PP (IN in)
+      (NP (JJ white) (NN cap)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'girl', 'in', 'white', 'cap']",girl,girl,girl,['--'],"['in', 'white', 'cap']","['colour', 'part_or_object']",--,in white cap,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+1876,9850829,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the the woman in white cap and shirt,the the woman in white cap and shirt,"[('the', 'DT'), ('the', 'DT'), ('woman', 'NN'), ('in', 'IN'), ('white', 'JJ'), ('cap', 'NN'), ('and', 'CC'), ('shirt', 'NN')]","(ROOT
+  (X
+    (X (DT the))
+    (NP
+      (NP (DT the) (NN woman))
+      (PP (IN in)
+        (NP (JJ white) (NN cap)
+          (CC and)
+          (NN shirt))))))","[(ROOT, 0, 3), (det, 3, 1), (det, 3, 2), (case, 6, 4), (amod, 6, 5), (nmod, 3, 6), (cc, 8, 7), (conj, 6, 8)]","['DT', 'DT', 'NN', 'IN', 'JJ', 'NN', 'CC', 'NN']","['the', 'the', 'woman', 'in', 'white', 'cap', 'and', 'shirt']",woman,woman,woman,['the'],"['in', 'white', 'cap', 'and', 'shirt']","['colour', 'part_or_object']",the,in white cap and shirt,"['DT', 'DT']","['IN', 'JJ', 'NN', 'CC', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5867,3031632,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the women with white cap,the women with white cap,"[('the', 'DT'), ('women', 'NNS'), ('with', 'IN'), ('white', 'JJ'), ('cap', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NNS women))
+    (PP (IN with)
+      (NP (JJ white) (NN cap)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NNS', 'IN', 'JJ', 'NN']","['the', 'women', 'with', 'white', 'cap']",women,woman,women,['--'],"['with', 'white', 'cap']","['colour', 'with', 'part_or_object']",--,with white cap,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2679,4868622,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the woman reaching in the white cap,the woman reaching in the white cap,"[('the', 'DT'), ('woman', 'NN'), ('reaching', 'VBG'), ('in', 'IN'), ('the', 'DT'), ('white', 'JJ'), ('cap', 'NN')]","(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN woman))
+      (VP (VBG reaching)
+        (PP (IN in)
+          (NP (DT the) (JJ white) (NN cap)))))))","[(ROOT, 0, 2), (det, 2, 1), (acl, 2, 3), (case, 7, 4), (det, 7, 5), (amod, 7, 6), (obl, 3, 7)]","['DT', 'NN', 'VBG', 'IN', 'DT', 'JJ', 'NN']","['the', 'woman', 'reaching', 'in', 'the', 'white', 'cap']",woman,woman,woman,['--'],"['reaching', 'in', 'the', 'white', 'cap']","['colour', 'action', 'part_or_object']",--,reaching in the white cap,['DT'],"['VBG', 'IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'action', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,True,True,True,False,False,True
+6641,2651565,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the women with the white shirt,the women with the white shirt,"[('the', 'DT'), ('women', 'NNS'), ('with', 'IN'), ('the', 'DT'), ('white', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NNS women))
+    (PP (IN with)
+      (NP (DT the) (JJ white) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NNS', 'IN', 'DT', 'JJ', 'NN']","['the', 'women', 'with', 'the', 'white', 'shirt']",women,woman,women,['--'],"['with', 'the', 'white', 'shirt']","['colour', 'with', 'part_or_object']",--,with the white shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5791,5972498,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the girl with the longest step and white hat,the girl with the longest step and white hat,"[('the', 'DT'), ('girl', 'NN'), ('with', 'IN'), ('the', 'DT'), ('longest', 'JJS'), ('step', 'NN'), ('and', 'CC'), ('white', 'JJ'), ('hat', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN girl))
+    (PP (IN with)
+      (NP
+        (NP (DT the) (JJS longest) (NN step))
+        (CC and)
+        (NP (JJ white) (NN hat))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6), (cc, 9, 7), (amod, 9, 8), (conj, 6, 9)]","['DT', 'NN', 'IN', 'DT', 'JJS', 'NN', 'CC', 'JJ', 'NN']","['the', 'girl', 'with', 'the', 'longest', 'step', 'and', 'white', 'hat']",girl,girl,girl,['--'],"['with', 'the', 'longest', 'step', 'and', 'white', 'hat']","['size', 'colour', 'with', 'part_or_object']",--,with the longest step and white hat,['DT'],"['IN', 'DT', 'JJS', 'NN', 'CC', 'JJ', 'NN']",['--'],"['size', 'colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2243,6047398,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the girl with the white hat,the girl with the white hat,"[('the', 'DT'), ('girl', 'NN'), ('with', 'IN'), ('the', 'DT'), ('white', 'JJ'), ('hat', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN girl))
+    (PP (IN with)
+      (NP (DT the) (JJ white) (NN hat)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'girl', 'with', 'the', 'white', 'hat']",girl,girl,girl,['--'],"['with', 'the', 'white', 'hat']","['colour', 'with', 'part_or_object']",--,with the white hat,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5383,8998977,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the woman in the white shirt,the woman in the white shirt,"[('the', 'DT'), ('woman', 'NN'), ('in', 'IN'), ('the', 'DT'), ('white', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN woman))
+    (PP (IN in)
+      (NP (DT the) (JJ white) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'woman', 'in', 'the', 'white', 'shirt']",woman,woman,woman,['--'],"['in', 'the', 'white', 'shirt']","['colour', 'part_or_object']",--,in the white shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5928,4878369,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the player with blue pants and white hat,the player with blue pants and white hat,"[('the', 'DT'), ('player', 'NN'), ('with', 'IN'), ('blue', 'JJ'), ('pants', 'NNS'), ('and', 'CC'), ('white', 'JJ'), ('hat', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN player))
+    (PP (IN with)
+      (NP
+        (NP (JJ blue) (NNS pants))
+        (CC and)
+        (NP (JJ white) (NN hat))))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5), (cc, 8, 6), (amod, 8, 7), (conj, 5, 8)]","['DT', 'NN', 'IN', 'JJ', 'NNS', 'CC', 'JJ', 'NN']","['the', 'player', 'with', 'blue', 'pants', 'and', 'white', 'hat']",player,player,player,['--'],"['with', 'blue', 'pants', 'and', 'white', 'hat']","['colour', 'colour', 'with', 'part_or_object']",--,with blue pants and white hat,['DT'],"['IN', 'JJ', 'NNS', 'CC', 'JJ', 'NN']",['--'],"['colour', 'colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4907,2952461,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the person with legs widest spread,the person with legs widest spread,"[('the', 'DT'), ('person', 'NN'), ('with', 'IN'), ('legs', 'NNS'), ('widest', 'JJS'), ('spread', 'NN')]","(ROOT
+  (FRAG
+    (NP
+      (NP (DT the) (NN person))
+      (PP (IN with)
+        (NP (NNS legs))))
+    (NP (JJS widest) (NN spread))))","[(ROOT, 0, 2), (det, 2, 1), (case, 4, 3), (nmod, 2, 4), (amod, 6, 5), (dep, 4, 6)]","['DT', 'NN', 'IN', 'NNS', 'JJS', 'NN']","['the', 'person', 'with', 'legs', 'widest', 'spread']",person,person,person,['--'],"['with', 'legs', 'widest', 'spread']","['size', 'with', 'part_or_object']",--,with legs widest spread,['DT'],"['IN', 'NNS', 'JJS', 'NN']",['--'],"['size', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2509,8605037,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the girl in white shirt,the girl in white shirt,"[('the', 'DT'), ('girl', 'NN'), ('in', 'IN'), ('white', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN girl))
+    (PP (IN in)
+      (NP (JJ white) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'girl', 'in', 'white', 'shirt']",girl,girl,girl,['--'],"['in', 'white', 'shirt']","['colour', 'part_or_object']",--,in white shirt,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+921,2600406,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the girl running with long steps,the girl running with long steps,"[('the', 'DT'), ('girl', 'NN'), ('running', 'VBG'), ('with', 'IN'), ('long', 'JJ'), ('steps', 'NNS')]","(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN girl))
+      (VP (VBG running)
+        (PP (IN with)
+          (NP (JJ long) (NNS steps)))))))","[(ROOT, 0, 2), (det, 2, 1), (acl, 2, 3), (case, 6, 4), (amod, 6, 5), (obl, 3, 6)]","['DT', 'NN', 'VBG', 'IN', 'JJ', 'NNS']","['the', 'girl', 'running', 'with', 'long', 'steps']",girl,girl,girl,['--'],"['running', 'with', 'long', 'steps']","['size', 'action', 'with', 'part_or_object']",--,running with long steps,['DT'],"['VBG', 'IN', 'JJ', 'NNS']",['--'],"['size', 'action', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,False,False,False,False,True,False,True,True,True,False,False,True
+2785,2949171,woman_frisbeeplayer_ambi_unspec_3456683.png,woman,frisbeeplayer,unsp,the woman wearing white cap and white top,the woman wearing white cap and white top,"[('the', 'DT'), ('woman', 'NN'), ('wearing', 'VBG'), ('white', 'JJ'), ('cap', 'NN'), ('and', 'CC'), ('white', 'JJ'), ('top', 'NN')]","(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN woman))
+      (VP (VBG wearing)
+        (NP
+          (NP (JJ white) (NN cap))
+          (CC and)
+          (NP (JJ white) (NN top)))))))","[(ROOT, 0, 2), (det, 2, 1), (acl, 2, 3), (amod, 5, 4), (obj, 3, 5), (cc, 8, 6), (amod, 8, 7), (conj, 5, 8)]","['DT', 'NN', 'VBG', 'JJ', 'NN', 'CC', 'JJ', 'NN']","['the', 'woman', 'wearing', 'white', 'cap', 'and', 'white', 'top']",woman,woman,woman,['--'],"['wearing', 'white', 'cap', 'and', 'white', 'top']","['colour', 'colour', 'position', 'action', 'part_or_object']",--,wearing white cap and white top,['DT'],"['VBG', 'JJ', 'NN', 'CC', 'JJ', 'NN']",['--'],"['colour', 'colour', 'position', 'action', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,False,False,False,False,True,True,True,True,True,False,False,True
+4198,5292045,woman_girl_ambi_unspec_2555595.png,woman,girl,unsp,the girl with velvet purple shirt,the girl with velvet purple shirt,"[('the', 'DT'), ('girl', 'NN'), ('with', 'IN'), ('velvet', 'NN'), ('purple', 'NN'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN girl))
+    (PP (IN with)
+      (NP
+        (NML (NN velvet) (NN purple))
+        (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (compound, 5, 4), (compound, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'NN', 'NN', 'NN']","['the', 'girl', 'with', 'velvet', 'purple', 'shirt']",girl,girl,girl,['--'],"['with', 'velvet', 'purple', 'shirt']","['colour', 'with', 'part_or_object']",--,with velvet purple shirt,['DT'],"['IN', 'NN', 'NN', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4077,4366594,woman_girl_ambi_unspec_2555595.png,woman,girl,unsp,the woman in the purple shirt,the woman in the purple shirt,"[('the', 'DT'), ('woman', 'NN'), ('in', 'IN'), ('the', 'DT'), ('purple', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN woman))
+    (PP (IN in)
+      (NP (DT the) (JJ purple) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'woman', 'in', 'the', 'purple', 'shirt']",woman,woman,woman,['--'],"['in', 'the', 'purple', 'shirt']","['colour', 'part_or_object']",--,in the purple shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+4250,7143428,woman_girl_ambi_unspec_2555595.png,woman,girl,unsp,the person with a purple shirt,the person with a purple shirt,"[('the', 'DT'), ('person', 'NN'), ('with', 'IN'), ('a', 'DT'), ('purple', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN person))
+    (PP (IN with)
+      (NP (DT a) (JJ purple) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'person', 'with', 'a', 'purple', 'shirt']",person,person,person,['--'],"['with', 'a', 'purple', 'shirt']","['colour', 'with', 'part_or_object']",--,with a purple shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+6720,1504427,woman_girl_ambi_unspec_2555595.png,woman,girl,unsp,the girl with maroon shirt,the girl with maroon shirt,"[('the', 'DT'), ('girl', 'NN'), ('with', 'IN'), ('maroon', 'NN'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN girl))
+    (PP (IN with)
+      (NP (NN maroon) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (compound, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'NN', 'NN']","['the', 'girl', 'with', 'maroon', 'shirt']",girl,girl,girl,['--'],"['with', 'maroon', 'shirt']","['colour', 'with', 'part_or_object']",--,with maroon shirt,['DT'],"['IN', 'NN', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+1322,3839629,woman_girl_ambi_unspec_2555595.png,woman,girl,unsp,the woman with a reddish or maroon shirt on,the woman with a redish or maroon shirt on,"[('the', 'DT'), ('woman', 'NN'), ('with', 'IN'), ('a', 'DT'), ('reddish', 'JJ'), ('or', 'CC'), ('maroon', 'NN'), ('shirt', 'NN'), ('on', 'IN')]","(ROOT
+  (NP
+    (NP (DT the) (NN woman))
+    (PP
+      (PP (IN with)
+        (NP (DT a) (JJ reddish)))
+      (CC or)
+      (PP
+        (NP (NN maroon) (NN shirt))
+        (IN on)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 8, 3), (det, 8, 4), (amod, 8, 5), (cc, 7, 6), (conj, 5, 7), (nmod, 2, 8), (dep, 2, 9)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'CC', 'NN', 'NN', 'IN']","['the', 'woman', 'with', 'a', 'reddish', 'or', 'maroon', 'shirt', 'on']",woman,woman,woman,['--'],"['with', 'a', 'reddish', 'or', 'maroon', 'shirt', 'on']","['colour', 'position', 'with', 'part_or_object']",--,with a reddish or maroon shirt on,['DT'],"['IN', 'DT', 'JJ', 'CC', 'NN', 'NN', 'IN']",['--'],"['colour', 'position', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,False,False,False,False,True,True,False,True,True,False,False,True
+5963,4878369,woman_girl_ambi_unspec_2555595.png,woman,girl,unsp,the girl with a purple shirt,the girl with a purple shirt,"[('the', 'DT'), ('girl', 'NN'), ('with', 'IN'), ('a', 'DT'), ('purple', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN girl))
+    (PP (IN with)
+      (NP (DT a) (JJ purple) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJ', 'NN']","['the', 'girl', 'with', 'a', 'purple', 'shirt']",girl,girl,girl,['--'],"['with', 'a', 'purple', 'shirt']","['colour', 'with', 'part_or_object']",--,with a purple shirt,['DT'],"['IN', 'DT', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+3429,2611325,woman_girl_ambi_unspec_2555595.png,woman,girl,unsp,the girl in purple shirt,the girl in purple shirt,"[('the', 'DT'), ('girl', 'NN'), ('in', 'IN'), ('purple', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN girl))
+    (PP (IN in)
+      (NP (JJ purple) (NN shirt)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NN']","['the', 'girl', 'in', 'purple', 'shirt']",girl,girl,girl,['--'],"['in', 'purple', 'shirt']","['colour', 'part_or_object']",--,in purple shirt,['DT'],"['IN', 'JJ', 'NN']",['--'],"['colour', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+5738,9445150,woman_girl_ambi_unspec_2555595.png,woman,girl,unsp,the girl with large earrings,the girl with large earings,"[('the', 'DT'), ('girl', 'NN'), ('with', 'IN'), ('large', 'JJ'), ('earrings', 'NNS')]","(ROOT
+  (NP
+    (NP (DT the) (NN girl))
+    (PP (IN with)
+      (NP (JJ large) (NNS earrings)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 5, 3), (amod, 5, 4), (nmod, 2, 5)]","['DT', 'NN', 'IN', 'JJ', 'NNS']","['the', 'girl', 'with', 'large', 'earrings']",girl,girl,girl,['--'],"['with', 'large', 'earrings']","['size', 'with', 'part_or_object']",--,with large earrings,['DT'],"['IN', 'JJ', 'NNS']",['--'],"['size', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+1607,8041092,woman_girl_ambi_unspec_2555595.png,woman,girl,unsp,the left woman with purple shirt,the left woman with purple shirt,"[('the', 'DT'), ('left', 'JJ'), ('woman', 'NN'), ('with', 'IN'), ('purple', 'JJ'), ('shirt', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (JJ left) (NN woman))
+    (PP (IN with)
+      (NP (JJ purple) (NN shirt)))))","[(ROOT, 0, 3), (det, 3, 1), (amod, 3, 2), (case, 6, 4), (amod, 6, 5), (nmod, 3, 6)]","['DT', 'JJ', 'NN', 'IN', 'JJ', 'NN']","['the', 'left', 'woman', 'with', 'purple', 'shirt']",woman,woman,woman,['left'],"['with', 'purple', 'shirt']","['position', 'colour', 'with', 'part_or_object']",left,with purple shirt,"['DT', 'JJ']","['IN', 'JJ', 'NN']",['position'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,True,False,False,True,False,False,True,True,True,False,False
+5813,5972498,woman_girl_ambi_unspec_2555595.png,woman,girl,unsp,the girl with he black jacket,the girl witht he black jacket,"[('the', 'DT'), ('girl', 'NN'), ('with', 'IN'), ('he', 'PRP'), ('black', 'JJ'), ('jacket', 'NN')]","(ROOT
+  (FRAG
+    (NP
+      (NP (DT the) (NN girl))
+      (PP (IN with)
+        (NP (PRP he))))
+    (NP (JJ black) (NN jacket))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (dep, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'PRP', 'JJ', 'NN']","['the', 'girl', 'with', 'he', 'black', 'jacket']",girl,girl,girl,['--'],"['with', 'he', 'black', 'jacket']","['colour', 'with', 'part_or_object']",--,with he black jacket,['DT'],"['IN', 'PRP', 'JJ', 'NN']",['--'],"['colour', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2225,5686043,woman_girl_ambi_unspec_2555595.png,woman,girl,unsp,the lady with purple,the lady with purple,"[('the', 'DT'), ('lady', 'NN'), ('with', 'IN'), ('purple', 'JJ')]","(ROOT
+  (NP
+    (NP (DT the) (NN lady))
+    (PP (IN with)
+      (ADJP (JJ purple)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 4, 3), (nmod, 2, 4)]","['DT', 'NN', 'IN', 'JJ']","['the', 'lady', 'with', 'purple']",lady,lady,lady,['--'],"['with', 'purple']","['colour', 'with']",--,with purple,['DT'],"['IN', 'JJ']",['--'],"['colour', 'with']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
+2419,8146096,woman_girl_ambi_unspec_2555595.png,woman,girl,unsp,the girl with the longer hair,the girl with the longer hair,"[('the', 'DT'), ('girl', 'NN'), ('with', 'IN'), ('the', 'DT'), ('longer', 'JJR'), ('hair', 'NN')]","(ROOT
+  (NP
+    (NP (DT the) (NN girl))
+    (PP (IN with)
+      (NP (DT the) (JJR longer) (NN hair)))))","[(ROOT, 0, 2), (det, 2, 1), (case, 6, 3), (det, 6, 4), (amod, 6, 5), (nmod, 2, 6)]","['DT', 'NN', 'IN', 'DT', 'JJR', 'NN']","['the', 'girl', 'with', 'the', 'longer', 'hair']",girl,girl,girl,['--'],"['with', 'the', 'longer', 'hair']","['size', 'with', 'part_or_object']",--,with the longer hair,['DT'],"['IN', 'DT', 'JJR', 'NN']",['--'],"['size', 'with', 'part_or_object']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,False,False,False,False,True,False,False,True,True,False,False,True
