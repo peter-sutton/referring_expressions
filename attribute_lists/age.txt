@@ -1,0 +1,10 @@
+old
+older
+oldest
+young
+younger
+baby
+adult
+aged
+kids
+childs

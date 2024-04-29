@@ -1,0 +1,10 @@
+wood
+wooden
+plastic
+leather
+glass
+cotton
+denim
+fabric
+vinyl
+neon

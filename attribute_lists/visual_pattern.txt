@@ -1,0 +1,13 @@
+print
+ornate
+fancy
+flower
+plain
+blank
+shiny
+neat
+neatest
+orderly
+pattern
+patterns
+stripes
