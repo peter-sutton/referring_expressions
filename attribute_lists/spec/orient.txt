@@ -1,0 +1,15 @@
+facing
+forwards
+backwards
+vertical
+horizontal
+toward
+towards
+out
+outspread
+outstretched
+closed
+open
+tilted
+upright
+askew
