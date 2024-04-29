@@ -1,9 +1,0 @@
-pointy
-round
-square
-oval
-circle
-ring
-circular
-
-
